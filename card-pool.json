@@ -37,6 +37,13 @@
     
     "list": "MDAH_V;MDAH_D;MDAH_R"
     
+      },
+      
+          "soitgoes": [
+    {
+    
+    "list": "RESO_V;RESO_D;RESO_R"
+    
       }
   ]
 }
