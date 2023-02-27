@@ -32,6 +32,11 @@
     "card10": "REST_V;REST_D;REST_R;MDSN_V;MDSN_D;MDSN_R;RESO_V;RESO_D;RESO_R",
     "cardgrades": "C;C;C;C;B;B;B;A;A;S;S;R;R"
     
+    "antihero": [
+    {
+    
+    "list": "MDAH_V;MDAH_D;MDAH_R"
+    
       }
   ]
 }
