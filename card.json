@@ -294,5 +294,110 @@
     "name": "<:emoji_47:1079421657149612122> **Taylor Swift Rhythm** So It Goes...",
     "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578132140953600/Untitled1062_20230224151925.png"
     }
+    ],
+ 
+     "RERE_V_C": [
+    {
+    "name": "<:emoji_43:1079421569681596427> **Taylor Swift Vocal** Red",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1079775575624912906/rdrd_v_c.png"
+    }
+    ],
+ 
+      "RERE_D_C": [
+    {
+    "name": "<:emoji_43:1079421569681596427> **Taylor Swift Dance** Red",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1079775625478414416/rdrd_d_c.png"
+    }
+    ],
+ 
+       "RERE_R_C": [
+    {
+    "name": "<:emoji_43:1079421569681596427> **Taylor Swift Rhythm** Red",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1079775654108745838/rdrd_r_c.png"
+    }
+    ],
+ 
+      "RERE_V_B": [
+    {
+    "name": "<:emoji_44:1079421589243838525> **Taylor Swift Vocal** Red",
+    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775575931113612/rdrd_v_b.png"
+    }
+    ],
+ 
+      "RERE_D_B": [
+    {
+    "name": "<:emoji_44:1079421589243838525> **Taylor Swift Dance** Red",
+    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775625746845716/rdrd_d_b.png"
+    }
+    ],
+ 
+       "RERE_R_B": [
+    {
+    "name": "<:emoji_44:1079421589243838525> **Taylor Swift Rhythm** Red",
+    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775654444269651/rdrd_r_b.png"
+    }
+    ],
+ 
+       "RERE_V_A": [
+    {
+    "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Vocal** Red",
+    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775576191152361/rdrd_v_a.png"
+    }
+    ],
+ 
+      "RERE_D_A": [
+    {
+    "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Dance** Red",
+    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775625952370852/rdrd_d_a.png"
+    }
+    ],
+ 
+       "RERE_R_A": [
+    {
+    "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Rhythm** Red",
+    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775654926635008/rdrd_r_a.png"
+    }
+    ],
+ 
+        "RERE_V_S": [
+    {
+    "name": "<:emoji_46:1079421633242087464>  **Taylor Swift Vocal** Red",
+    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775576451190875/rdrd_v_s.png"
+    }
+    ],
+ 
+      "RERE_D_S": [
+    {
+    "name": "<:emoji_46:1079421633242087464>  **Taylor Swift Dance** Red",
+    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775626183053473/rdrd_d_s.png"
+    }
+    ],
+ 
+       "RERE_R_S": [
+    {
+    "name": "<:emoji_46:1079421633242087464>  **Taylor Swift Rhythm** Red",
+    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775655220215828/rdrd_r_s.png"
+    }
+    ],
+ 
+         "RERE_V_R": [
+    {
+    "name": "<:emoji_47:1079421657149612122>   **Taylor Swift Vocal** Red",
+    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775576702865498/rdrd_v_r.png"
+    }
+    ],
+ 
+      "RERE_D_R": [
+    {
+    "name": "<:emoji_47:1079421657149612122>   **Taylor Swift Dance** Red",
+    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775626451505303/rdrd_d_r.png"
+    }
+    ],
+ 
+       "RERE_R_R": [
+    {
+    "name": "<:emoji_47:1079421657149612122>   **Taylor Swift Rhythm** Red",
+    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775655505444895/rdrd_r_r.png"
+    }
     ]
             }
