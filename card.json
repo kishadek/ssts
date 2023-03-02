@@ -680,6 +680,20 @@
     }
     ],
  
+  "WTNY_R_C": [
+    {
+    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Welcome to New York",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573874016436244/Untitled536_20230224150634.png"
+    }
+    ],
+ 
+        "WTNY_R_B": [
+    {
+    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Welcome to New York",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573873668300800/Untitled536_20230224150638.png"
+    }
+    ],
+ 
  "WTNY_R_A": [
     {
     "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Welcome to New York",
@@ -698,6 +712,111 @@
     {
     "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Welcome to New York",
     "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573872791691274/Untitled536_20230224150646.png"
+    }
+    ],
+ 
+ "REHO_V_C": [
+    {
+    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Holy Ground",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294400174870548/Untitled238_20230301085728.png?width=444&height=579"
+    }
+    ],
+ 
+        "REHO_V_B": [
+    {
+    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Holy Ground",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294400535572562/Untitled238_20230301085751.png?width=444&height=579"
+    }
+    ],
+ 
+  "REHO_V_A": [
+    {
+    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Holy Ground",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294401022103562/Untitled238_20230301090305.png?width=444&height=579"
+    }
+    ],
+ 
+          "REHO_V_S": [
+    {
+    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Holy Ground",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294401357664286/Untitled238_20230301085950.png?width=444&height=579"
+    }
+    ],
+ 
+           "REHO_V_R": [
+    {
+    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Holy Ground",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294401865166888/Untitled238_20230301090001.png?width=444&height=579"
+    }
+    ],
+ 
+ "REHO_D_C": [
+    {
+    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Holy Ground",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294404285288498/Untitled238_20230301090013.png?width=444&height=579"
+    }
+    ],
+ 
+        "REHO_D_B": [
+    {
+    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Holy Ground",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294402741784697/Untitled238_20230301085803.png?width=444&height=579"
+    }
+    ],
+ 
+  "REHO_D_A": [
+    {
+    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Holy Ground",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294403219927040/Untitled238_20230301090333.png?width=444&height=579"
+    }
+    ],
+ 
+          "REHO_D_S": [
+    {
+    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Holy Ground",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294403706458122/Untitled238_20230301085938.png?width=444&height=579"
+    }
+    ],
+ 
+           "REHO_D_R": [
+    {
+    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Holy Ground",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294404285288498/Untitled238_20230301090013.png?width=444&height=579"
+    }
+    ],
+ 
+ "REHO_R_C": [
+    {
+    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Holy Ground",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294463731154974/Untitled238_20230301085710.png?width=444&height=579"
+    }
+    ],
+ 
+        "REHO_R_B": [
+    {
+    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Holy Ground",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294464163156008/Untitled238_20230301085811.png?width=444&height=579"
+    }
+    ],
+ 
+  "REHO_R_A": [
+    {
+    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Holy Ground",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294464779735080/Untitled238_20230301085851.png?width=444&height=579"
+    }
+    ],
+ 
+          "REHO_R_S": [
+    {
+    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Holy Ground",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294465350156338/Untitled238_20230301085925.png?width=444&height=579"
+    }
+    ],
+ 
+           "REHO_R_R": [
+    {
+    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Holy Ground",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294465811517480/Untitled238_20230301090020.png?width=444&height=579"
     }
     ]
            }
