@@ -669,14 +669,35 @@
           "WTNY_D_S": [
     {
     "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573895172497508/Untitled536_20230224150620.png"
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573874016436244/Untitled536_20230224150634.png"
     }
     ],
  
            "WTNY_D_R": [
     {
     "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573895545794580/Untitled536_20230224150617.png"
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573873668300800/Untitled536_20230224150638.png"
     }
     ],
+ 
+ "WTNY_R_A": [
+    {
+    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Welcome to New York",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573873412456530/Untitled536_20230224150640.png"
+    }
+    ],
+ 
+          "WTNY_R_S": [
+    {
+    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Welcome to New York",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573873093693520/Untitled536_20230224150643.png"
+    }
+    ],
+ 
+           "WTNY_R_R": [
+    {
+    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Welcome to New York",
+    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573872791691274/Untitled536_20230224150646.png"
+    }
+    ]
            }
