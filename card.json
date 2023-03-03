@@ -1,4 +1,145 @@
 {
+"FEAR_V_C": [
+    {
+    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/11_card_fearless.png?format=png"
+    }
+    ],
+ 
+        "FEAR_V_B": [
+    {
+    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/12_card_fearless.png?format=png"
+    }
+    ],
+ 
+  "FEAR_V_A": [
+    {
+    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/13_card_fearless.png?format=png"
+    }
+    ],
+ 
+          "FEAR_V_S": [
+    {
+    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/14_card_fearless.png?format=png"
+    }
+    ],
+ 
+           "FEAR_V_R": [
+    {
+    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/15_card_fearless.png?format=png"
+    }
+    ],
+ 
+ "FEAR_D_C": [
+    {
+    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/11_card_fearless.png?format=png"
+    }
+    ],
+ 
+        "FEAR_D_B": [
+    {
+    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/12_card_fearless.png?format=png"
+    }
+    ],
+ 
+  "FEAR_D_A": [
+    {
+    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/13_card_fearless.png?format=png"
+    }
+    ],
+ 
+          "FEAR_D_S": [
+    {
+    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/14_card_fearless.png?format=png"
+    }
+    ],
+ 
+           "FEAR_D_R": [
+    {
+    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/15_card_fearless.png?format=png"
+    }
+    ],
+ 
+ "FEAR_D_C": [
+    {
+    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/10_card_fearless.png?format=png"
+    }
+    ],
+ 
+        "FEAR_D_B": [
+    {
+    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/9_card_fearless.png?format=png"
+    }
+    ],
+ 
+  "FEAR_D_A": [
+    {
+    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/8_card_fearless.png?format=png"
+    }
+    ],
+ 
+          "FEAR_D_S": [
+    {
+    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/7_card_fearless.png?format=png"
+    }
+    ],
+ 
+           "FEAR_D_R": [
+    {
+    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/6_card_fearless.png?format=png"
+    }
+    ],
+ 
+ 
+ "FEAR_R_C": [
+    {
+    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/1_card_fearless.png?format=png"
+    }
+    ],
+ 
+        "FEAR_R_B": [
+    {
+    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/2_card_fearless.png?format=png"
+    }
+    ],
+ 
+  "FEAR_R_A": [
+    {
+    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/3_card_fearless.png?format=png"
+    }
+    ],
+ 
+          "FEAR_R_S": [
+    {
+    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/4_card_fearless.png?format=png"
+    }
+    ],
+ 
+           "FEAR_R_R": [
+    {
+    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Fearless",
+    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/5_card_fearless.png?format=png"
+    }
+    ],
+ 
  "MDAH_V_C": [
     {
     "name": "<:c_:1063129501699166208> **Taylor Swift Vocal** Anti-Hero",
