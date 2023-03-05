@@ -69,7 +69,6 @@
     "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/14_card_fearless.png?format=png",
         "theme": "Fearless"
     },
-        "theme": "Fearless"
     ],
  
            "FEAR_D_R": [
@@ -118,7 +117,6 @@
     "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/6_card_fearless.png?format=png",
         "theme": "Fearless"
     },
-        "theme": "Fearless"
     ],
  
  
@@ -166,7 +164,7 @@
     {
     "name": "<:c_:1063129501699166208> **Taylor Swift Vocal** Anti-Hero",
     "image": "https://media.discordapp.net/attachments/940372410832670730/1078324135542931527/Untitled536_20230223222949.png",,
-        "theme": "Fearless"
+        "theme": "Fearless",
     "footer": "You obtained the reward."
     }
     ],
