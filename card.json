@@ -51,7 +51,6 @@
     {
     "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Fearless",
     "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/12_card_fearless.png?format=png"
-        
     }
     ],
  
@@ -68,7 +67,7 @@
     "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Fearless",
     "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/14_card_fearless.png?format=png"
         
-    },
+    }
     ],
  
            "FEAR_D_R": [
@@ -116,7 +115,7 @@
     "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Fearless",
     "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/6_card_fearless.png?format=png"
         
-    },
+    }
     ],
  
  
@@ -164,7 +163,6 @@
     {
     "name": "<:c_:1063129501699166208> **Taylor Swift Vocal** Anti-Hero",
     "image": "https://media.discordapp.net/attachments/940372410832670730/1078324135542931527/Untitled536_20230223222949.png",
-        ,
     "footer": "You obtained the reward."
     }
     ],
