@@ -1,1109 +1,890 @@
 {
-"FEAR_V_C": [
-    {
-    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/11_card_fearless.png?format=png"
-    
-    }
+    "FEAR_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/11_card_fearless.png?format=png"
+        }
     ],
- 
-        "FEAR_V_B": [
-    {
-    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/12_card_fearless.png?format=png"
-        
-    }
+    "FEAR_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/12_card_fearless.png?format=png"
+        }
     ],
- 
-  "FEAR_V_A": [
-    {
-    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/13_card_fearless.png?format=png"
-        
-    }
+    "FEAR_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/13_card_fearless.png?format=png"
+        }
     ],
- 
-          "FEAR_V_S": [
-    {
-    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/14_card_fearless.png?format=png"
-        
-    }
+    "FEAR_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/14_card_fearless.png?format=png"
+        }
     ],
- 
-           "FEAR_V_R": [
-    {
-    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/15_card_fearless.png?format=png"
-        
-    }
+    "FEAR_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/15_card_fearless.png?format=png"
+        }
     ],
- 
- "FEAR_D_C": [
-    {
-    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/11_card_fearless.png?format=png"
-        
-    }
+    "FEAR_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/10_card_fearless.png?format=png"
+        }
     ],
- 
-        "FEAR_D_B": [
-    {
-    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/12_card_fearless.png?format=png"
-    }
+    "FEAR_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/9_card_fearless.png?format=png"
+        }
     ],
- 
-  "FEAR_D_A": [
-    {
-    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/13_card_fearless.png?format=png"
-        
-    }
+    "FEAR_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/8_card_fearless.png?format=png"
+        }
     ],
- 
-          "FEAR_D_S": [
-    {
-    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/14_card_fearless.png?format=png"
-        
-    }
+    "FEAR_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/7_card_fearless.png?format=png"
+        }
     ],
- 
-           "FEAR_D_R": [
-    {
-    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/15_card_fearless.png?format=png"
-        
-    }
+    "FEAR_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/6_card_fearless.png?format=png"
+        }
     ],
- 
- "FEAR_D_C": [
-    {
-    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/10_card_fearless.png?format=png"
-       
-    }
+    "FEAR_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/1_card_fearless.png?format=png"
+        }
     ],
- 
-        "FEAR_D_B": [
-    {
-    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/9_card_fearless.png?format=png"
-        
-    }
+    "FEAR_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/2_card_fearless.png?format=png"
+        }
     ],
- 
-  "FEAR_D_A": [
-    {
-    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/8_card_fearless.png?format=png"
-        
-    }
+    "FEAR_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/3_card_fearless.png?format=png"
+        }
     ],
- 
-          "FEAR_D_S": [
-    {
-    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/7_card_fearless.png?format=png"
-        
-    }
+    "FEAR_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/4_card_fearless.png?format=png"
+        }
     ],
- 
-           "FEAR_D_R": [
-    {
-    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/6_card_fearless.png?format=png"
-        
-    }
+    "FEAR_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/5_card_fearless.png?format=png"
+        }
     ],
- 
- 
- "FEAR_R_C": [
-    {
-    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/1_card_fearless.png?format=png"
-        
-    }
+    "MDAH_V_C": [
+        {
+            "name": "<:c_:1063129501699166208> **Taylor Swift Vocal** Anti-Hero",
+            "image": "https://media.discordapp.net/attachments/940372410832670730/1078324135542931527/Untitled536_20230223222949.png",
+            "footer": "You obtained the reward."
+        }
     ],
- 
-        "FEAR_R_B": [
-    {
-    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/2_card_fearless.png?format=png"
-        
-    }
+    "MDAH_D_C": [
+        {
+            "name": "<:c_:1063129501699166208> **Taylor Swift Dance** Anti-Hero",
+            "image": "https://media.discordapp.net/attachments/940372410832670730/1078324493480640563/Untitled536_20230223223625.png",
+            "footer": "You obtained the reward."
+        }
     ],
- 
-  "FEAR_R_A": [
-    {
-    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/3_card_fearless.png?format=png"
-        
-    }
+    "MDAH_R_C": [
+        {
+            "name": "<:c_:1063129501699166208> **Taylor Swift Rhythm** Anti-Hero",
+            "image": "https://media.discordapp.net/attachments/940372410832670730/1078324165985190030/Untitled536_20230223223043.png",
+            "footer": "You obtained the reward."
+        }
     ],
- 
-          "FEAR_R_S": [
-    {
-    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/4_card_fearless.png?format=png"
-       
-    }
+    "MDAH_V_B": [
+        {
+            "name": "<:b:1063129462801190922> **Taylor Swift Vocal** Anti-Hero",
+            "image": "https://media.discordapp.net/attachments/940372410832670730/1078324135811350599/Untitled536_20230223222946.png",
+            "footer": "You obtained the reward."
+        }
     ],
- 
-           "FEAR_R_R": [
-    {
-    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Fearless",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/fearless/5_card_fearless.png?format=png"
-        
-    }
+    "MDAH_D_B": [
+        {
+            "name": "<:b:1063129462801190922> **Taylor Swift Dance** Anti-Hero",
+            "image": "https://media.discordapp.net/attachments/940372410832670730/1078324493791023257/Untitled536_20230223223622.png",
+            "footer": "You obtained the reward."
+        }
     ],
- 
- "MDAH_V_C": [
-    {
-    "name": "<:c_:1063129501699166208> **Taylor Swift Vocal** Anti-Hero",
-    "image": "https://media.discordapp.net/attachments/940372410832670730/1078324135542931527/Untitled536_20230223222949.png",
-    "footer": "You obtained the reward."
-    }
+    "MDAH_R_B": [
+        {
+            "name": "<:b:1063129462801190922> **Taylor Swift Rhythm** Anti-Hero",
+            "image": "https://media.discordapp.net/attachments/940372410832670730/1078324166333304932/Untitled536_20230223223039.png",
+            "footer": "You obtained the reward."
+        }
     ],
-    
-     "MDAH_D_C": [
-    {
-    "name": "<:c_:1063129501699166208> **Taylor Swift Dance** Anti-Hero",
-    "image": "https://media.discordapp.net/attachments/940372410832670730/1078324493480640563/Untitled536_20230223223625.png",
-    "footer": "You obtained the reward."
-        
-    }
+    "MDAH_V_A": [
+        {
+            "name": "<:a:1063129421038502018> **Taylor Swift Vocal** Anti-Hero",
+            "image": "https://media.discordapp.net/attachments/940372410832670730/1078324166631112795/Untitled536_20230223223035.png",
+            "footer": "You obtained the reward."
+        }
     ],
-    
-         "MDAH_R_C": [
-    {
-    "name": "<:c_:1063129501699166208> **Taylor Swift Rhythm** Anti-Hero",
-    "image": "https://media.discordapp.net/attachments/940372410832670730/1078324165985190030/Untitled536_20230223223043.png",
-    "footer": "You obtained the reward."
-        
-    }
+    "MDAH_D_A": [
+        {
+            "name": "<:a:1063129421038502018> **Taylor Swift Dance** Anti-Hero",
+            "image": "https://media.discordapp.net/attachments/940372410832670730/1078324494092996670/Untitled536_20230223223619.png",
+            "footer": "You obtained the reward."
+        }
     ],
-    
-     "MDAH_V_B": [
-    {
-    "name": "<:b:1063129462801190922> **Taylor Swift Vocal** Anti-Hero",
-    "image": "https://media.discordapp.net/attachments/940372410832670730/1078324135811350599/Untitled536_20230223222946.png",
-    "footer": "You obtained the reward."
-        
-    }
+    "MDAH_R_A": [
+        {
+            "name": "<:a:1063129421038502018> **Taylor Swift Rhythm** Anti-Hero",
+            "image": "https://media.discordapp.net/attachments/940372410832670730/1078324166631112795/Untitled536_20230223223035.png",
+            "footer": "You obtained the reward."
+        }
     ],
-    
-     "MDAH_D_B": [
-    {
-    "name": "<:b:1063129462801190922> **Taylor Swift Dance** Anti-Hero",
-    "image": "https://media.discordapp.net/attachments/940372410832670730/1078324493791023257/Untitled536_20230223223622.png",
-    "footer": "You obtained the reward."
-        
-    }
+    "MDAH_V_S": [
+        {
+            "name": "<:s:1063129402990415994> **Taylor Swift Vocal** Anti-Hero",
+            "image": "https://media.discordapp.net/attachments/940372410832670730/1078324136285323304/Untitled536_20230223222937.png",
+            "footer": "You obtained the reward."
+        }
     ],
-    
-         "MDAH_R_B": [
-    {
-    "name": "<:b:1063129462801190922> **Taylor Swift Rhythm** Anti-Hero",
-    "image": "https://media.discordapp.net/attachments/940372410832670730/1078324166333304932/Untitled536_20230223223039.png",
-    "footer": "You obtained the reward."
-        
-    }
+    "MDAH_D_S": [
+        {
+            "name": "<:s:1063129402990415994> **Taylor Swift Dance** Anti-Hero",
+            "image": "https://media.discordapp.net/attachments/940372410832670730/1078324494407581806/Untitled536_20230223223615.png",
+            "footer": "You obtained the reward."
+        }
     ],
-    
-     "MDAH_V_A": [
-    {
-    "name": "<:a:1063129421038502018> **Taylor Swift Vocal** Anti-Hero",
-    "image": "https://media.discordapp.net/attachments/940372410832670730/1078324166631112795/Untitled536_20230223223035.png",
-    "footer": "You obtained the reward."
-       
-    }
+    "MDAH_R_S": [
+        {
+            "name": "<:s:1063129402990415994> **Taylor Swift Rhythm** Anti-Hero",
+            "image": "https://media.discordapp.net/attachments/940372410832670730/1078324166878560307/Untitled536_20230223223031.png",
+            "footer": "You obtained the reward."
+        }
     ],
-    
-     "MDAH_D_A": [
-    {
-    "name": "<:a:1063129421038502018> **Taylor Swift Dance** Anti-Hero",
-    "image": "https://media.discordapp.net/attachments/940372410832670730/1078324494092996670/Untitled536_20230223223619.png",
-    "footer": "You obtained the reward."
-        
-    }
+    "MDAH_V_R": [
+        {
+            "name": "<:r_:1063129381653975110> **Taylor Swift Vocal** Anti-Hero",
+            "image": "https://media.discordapp.net/attachments/940372410832670730/1078324136650219540/Untitled536_20230223222933.png",
+            "footer": "You obtained the reward."
+        }
     ],
-    
-         "MDAH_R_A": [
-    {
-    "name": "<:a:1063129421038502018> **Taylor Swift Rhythm** Anti-Hero",
-    "image": "https://media.discordapp.net/attachments/940372410832670730/1078324166631112795/Untitled536_20230223223035.png",
-    "footer": "You obtained the reward."
-        
-    }
+    "MDAH_D_R": [
+        {
+            "name": "<:r_:1063129381653975110> **Taylor Swift Dance** Anti-Hero",
+            "image": "https://media.discordapp.net/attachments/940372410832670730/1078324385879965846/Untitled536_20230223223559.png",
+            "footer": "You obtained the reward."
+        }
     ],
-    
-     "MDAH_V_S": [
-    {
-    "name": "<:s:1063129402990415994> **Taylor Swift Vocal** Anti-Hero",
-    "image": "https://media.discordapp.net/attachments/940372410832670730/1078324136285323304/Untitled536_20230223222937.png",
-    "footer": "You obtained the reward."
-        
-    }
+    "MDAH_R_R": [
+        {
+            "name": "<:r_:1063129381653975110> **Taylor Swift Rhythm** Anti-Hero",
+            "image": "https://media.discordapp.net/attachments/940372410832670730/1078324167201525870/Untitled536_20230223223023.png",
+            "footer": "You obtained the reward."
+        }
     ],
-    
-     "MDAH_D_S": [
-    {
-    "name": "<:s:1063129402990415994> **Taylor Swift Dance** Anti-Hero",
-    "image": "https://media.discordapp.net/attachments/940372410832670730/1078324494407581806/Untitled536_20230223223615.png",
-    "footer": "You obtained the reward."
-        
-    }
+    "REST_V_S": [
+        {
+            "name": "<:s:1063129402990415994> **Taylor Swift Vocal** State of Grace",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/state/state_s_v.png?format=png",
+            "footer": "You obtained the reward."
+        }
     ],
-    
-         "MDAH_R_S": [
-    {
-    "name": "<:s:1063129402990415994> **Taylor Swift Rhythm** Anti-Hero",
-    "image": "https://media.discordapp.net/attachments/940372410832670730/1078324166878560307/Untitled536_20230223223031.png",
-    "footer": "You obtained the reward."
-        
-    }
+    "REST_D_S": [
+        {
+            "name": "<:s:1063129402990415994> **Taylor Swift Dance** State of Grace",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/state/state_s_d.png?format=png",
+            "footer": "You obtained the reward."
+        }
     ],
-    
-     "MDAH_V_R": [
-    {
-    "name": "<:r_:1063129381653975110> **Taylor Swift Vocal** Anti-Hero",
-    "image": "https://media.discordapp.net/attachments/940372410832670730/1078324136650219540/Untitled536_20230223222933.png",
-    "footer": "You obtained the reward."
-        
-    }
+    "REST_R_S": [
+        {
+            "name": "<:s:1063129402990415994> **Taylor Swift Rhythm** State of Grace",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/state/state_s_r.png?format=png",
+            "footer": "You obtained the reward."
+        }
     ],
-    
-     "MDAH_D_R": [
-    {
-    "name": "<:r_:1063129381653975110> **Taylor Swift Dance** Anti-Hero",
-    "image": "https://media.discordapp.net/attachments/940372410832670730/1078324385879965846/Untitled536_20230223223559.png",
-    "footer": "You obtained the reward."
-        
-    }
+    "MDSN_V_R": [
+        {
+            "name": "<:r_:1063129381653975110> **Taylor Swift Vocal** Snow on the Beach",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/sotb/sotb_r_v.png?format=png",
+            "footer": "You obtained the reward."
+        }
     ],
-    
-         "MDAH_R_R": [
-    {
-    "name": "<:r_:1063129381653975110> **Taylor Swift Rhythm** Anti-Hero",
-    "image": "https://media.discordapp.net/attachments/940372410832670730/1078324167201525870/Untitled536_20230223223023.png",
-    "footer": "You obtained the reward."
-        
-    }
+    "MDSN_D_R": [
+        {
+            "name": "<:r_:1063129381653975110> **Taylor Swift Dance** Snow on the Beach",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/sotb/sotb_r_d.png?format=png",
+            "footer": "You obtained the reward."
+        }
     ],
- 
-  "REST_V_S": [
-    {
-    "name": "<:s:1063129402990415994> **Taylor Swift Vocal** State of Grace",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/state/state_s_v.png?format=png",
-    "footer": "You obtained the reward."
-        
-    }
+    "MDSN_R_R": [
+        {
+            "name": "<:r_:1063129381653975110> **Taylor Swift Rhythm** Snow on the Beach",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/sotb/sotb_r_r.png?format=png",
+            "footer": "You obtained the reward."
+        }
     ],
- 
-   "REST_D_S": [
-    {
-    "name": "<:s:1063129402990415994> **Taylor Swift Dance** State of Grace",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/state/state_s_d.png?format=png",
-    "footer": "You obtained the reward."
-        
-    }
+    "REGE_V_S": [
+        {
+            "name": "<:s:1063129402990415994> **Taylor Swift Vocal** Getaway Car",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/reputation/getawaycar/gc_s_v.png?format=png",
+            "footer": "You obtained the reward."
+        }
     ],
- 
-   "REST_R_S": [
-    {
-    "name": "<:s:1063129402990415994> **Taylor Swift Rhythm** State of Grace",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/state/state_s_r.png?format=png",
-    "footer": "You obtained the reward."
-        
-    }
+    "REGE_D_S": [
+        {
+            "name": "<:s:1063129402990415994> **Taylor Swift Dance** Getaway Car",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/reputation/getawaycar/gc_s_d.png?format=png",
+            "footer": "You obtained the reward."
+        }
     ],
- 
-          "MDSN_V_R": [
-    {
-    "name": "<:r_:1063129381653975110> **Taylor Swift Vocal** Snow on the Beach",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/sotb/sotb_r_v.png?format=png",
-    "footer": "You obtained the reward."
-        
-    }
+    "REGE_R_S": [
+        {
+            "name": "<:s:1063129402990415994> **Taylor Swift Rhythm** Getaway Car",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/reputation/getawaycar/gc_s_r.png?format=png",
+            "footer": "You obtained the reward."
+        }
     ],
- 
-           "MDSN_D_R": [
-    {
-    "name": "<:r_:1063129381653975110> **Taylor Swift Dance** Snow on the Beach",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/sotb/sotb_r_d.png?format=png",
-    "footer": "You obtained the reward."
-        
-    }
+    "RESO_V_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Vocal** So It Goes...",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578050914078810/Untitled1062_20230224151836.png"
+        }
     ],
- 
-           "MDSN_R_R": [
-    {
-    "name": "<:r_:1063129381653975110> **Taylor Swift Rhythm** Snow on the Beach",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/sotb/sotb_r_r.png?format=png",
-    "footer": "You obtained the reward."
-        
-    }
+    "RESO_D_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Dance** So It Goes...",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578082941784064/Untitled1062_20230224151908.png"
+        }
     ],
- 
-          "REGE_V_S": [
-    {
-    "name": "<:s:1063129402990415994> **Taylor Swift Vocal** Getaway Car",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/reputation/getawaycar/gc_s_v.png?format=png",
-    "footer": "You obtained the reward."
-        
-    }
-    ],
- 
-           "REGE_D_S": [
-    {
-    "name": "<:s:1063129402990415994> **Taylor Swift Dance** Getaway Car",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/reputation/getawaycar/gc_s_d.png?format=png",
-    "footer": "You obtained the reward."
-        
-    }
-    ],
-  
-           "REGE_R_S": [
-    {
-    "name": "<:s:1063129402990415994> **Taylor Swift Rhythm** Getaway Car",
-    "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/reputation/getawaycar/gc_s_r.png?format=png",
-    "footer": "You obtained the reward."
-    }
-    ],
- 
-  "RESO_V_C": [
-    {
-    "name": "<:emoji_43:1079421569681596427> **Taylor Swift Vocal** So It Goes...",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578050914078810/Untitled1062_20230224151836.png"
-    }
-    ],
- 
-   "RESO_D_C": [
-    {
-    "name": "<:emoji_43:1079421569681596427> **Taylor Swift Dance** So It Goes...",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578082941784064/Untitled1062_20230224151908.png"
-    }
-    ],
- 
     "RESO_R_C": [
-    {
-    "name": "<:emoji_43:1079421569681596427> **Taylor Swift Rhythm** So It Goes...",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578133315366942/Untitled1062_20230224151940.png"
-    }
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Rhythm** So It Goes...",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578133315366942/Untitled1062_20230224151940.png"
+        }
     ],
- 
-   "RESO_V_B": [
-    {
-    "name": "<:emoji_44:1079421589243838525> **Taylor Swift Vocal** So It Goes...",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578050712739840/Untitled1062_20230224151833.png"
-    }
+    "RESO_V_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Vocal** So It Goes...",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578050712739840/Untitled1062_20230224151833.png"
+        }
     ],
- 
-   "RESO_D_B": [
-    {
-    "name": "<:emoji_44:1079421589243838525> **Taylor Swift Dance** So It Goes...",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578082581057626/Untitled1062_20230224151904.png"
-    }
+    "RESO_D_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Dance** So It Goes...",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578082581057626/Untitled1062_20230224151904.png"
+        }
     ],
- 
     "RESO_R_B": [
-    {
-    "name": "<:emoji_44:1079421589243838525> **Taylor Swift Rhythm** So It Goes...",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578132996591686/Untitled1062_20230224151935.png"
-    }
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Rhythm** So It Goes...",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578132996591686/Untitled1062_20230224151935.png"
+        }
     ],
- 
-   "RESO_V_A": [
-    {
-    "name": "<:emoji_45:1079421612182491208> **Taylor Swift Vocal** So It Goes...",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578050431717416/Untitled1062_20230224151840.png"
-    }
+    "RESO_V_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208> **Taylor Swift Vocal** So It Goes...",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578050431717416/Untitled1062_20230224151840.png"
+        }
     ],
- 
-   "RESO_D_A": [
-    {
-    "name": "<:emoji_45:1079421612182491208> **Taylor Swift Dance** So It Goes...",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578082161623110/Untitled1062_20230224151912.png"
-    }
+    "RESO_D_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208> **Taylor Swift Dance** So It Goes...",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578082161623110/Untitled1062_20230224151912.png"
+        }
     ],
- 
     "RESO_R_A": [
-    {
-    "name": "<:emoji_45:1079421612182491208> **Taylor Swift Rhythm** So It Goes...",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578132719763507/Untitled1062_20230224151945.png"
-    }
+        {
+            "name": "<:emoji_45:1079421612182491208> **Taylor Swift Rhythm** So It Goes...",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578132719763507/Untitled1062_20230224151945.png"
+        }
     ],
- 
-   "RESO_V_S": [
-    {
-    "name": "<:emoji_46:1079421633242087464> **Taylor Swift Vocal** So It Goes...",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578050154909806/Untitled1062_20230224151829.png"
-    }
+    "RESO_V_S": [
+        {
+            "name": "<:emoji_46:1079421633242087464> **Taylor Swift Vocal** So It Goes...",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578050154909806/Untitled1062_20230224151829.png"
+        }
     ],
- 
-   "RESO_D_S": [
-    {
-    "name": "<:emoji_46:1079421633242087464> **Taylor Swift Dance** So It Goes...",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578081360510997/Untitled1062_20230224151853.png"
-    }
+    "RESO_D_S": [
+        {
+            "name": "<:emoji_46:1079421633242087464> **Taylor Swift Dance** So It Goes...",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578081360510997/Untitled1062_20230224151853.png"
+        }
     ],
- 
     "RESO_R_S": [
-    {
-    "name": "<:emoji_46:1079421633242087464> **Taylor Swift Rhythm** So It Goes...",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578132442951740/Untitled1062_20230224151931.png"
-    }
+        {
+            "name": "<:emoji_46:1079421633242087464> **Taylor Swift Rhythm** So It Goes...",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578132442951740/Untitled1062_20230224151931.png"
+        }
     ],
- 
-   "RESO_V_R": [
-    {
-    "name": "<:emoji_47:1079421657149612122> **Taylor Swift Vocal** So It Goes...",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578049928405122/Untitled1062_20230224151824.png"
-    }
+    "RESO_V_R": [
+        {
+            "name": "<:emoji_47:1079421657149612122> **Taylor Swift Vocal** So It Goes...",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578049928405122/Untitled1062_20230224151824.png"
+        }
     ],
- 
-   "RESO_D_R": [
-    {
-    "name": "<:emoji_47:1079421657149612122> **Taylor Swift Dance** So It Goes...",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578081360510997/Untitled1062_20230224151853.png"
-    }
+    "RESO_D_R": [
+        {
+            "name": "<:emoji_47:1079421657149612122> **Taylor Swift Dance** So It Goes...",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578081360510997/Untitled1062_20230224151853.png"
+        }
     ],
- 
     "RESO_R_R": [
-    {
-    "name": "<:emoji_47:1079421657149612122> **Taylor Swift Rhythm** So It Goes...",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578132140953600/Untitled1062_20230224151925.png"
-    }
+        {
+            "name": "<:emoji_47:1079421657149612122> **Taylor Swift Rhythm** So It Goes...",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078578132140953600/Untitled1062_20230224151925.png"
+        }
     ],
- 
-     "RERE_V_C": [
-    {
-    "name": "<:emoji_43:1079421569681596427> **Taylor Swift Vocal** Red",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1079775575624912906/rdrd_v_c.png"
-    }
+    "RERE_V_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Vocal** Red",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1079775575624912906/rdrd_v_c.png"
+        }
     ],
- 
-      "RERE_D_C": [
-    {
-    "name": "<:emoji_43:1079421569681596427> **Taylor Swift Dance** Red",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1079775625478414416/rdrd_d_c.png"
-    }
+    "RERE_D_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Dance** Red",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1079775625478414416/rdrd_d_c.png"
+        }
     ],
- 
-       "RERE_R_C": [
-    {
-    "name": "<:emoji_43:1079421569681596427> **Taylor Swift Rhythm** Red",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1079775654108745838/rdrd_r_c.png"
-    }
+    "RERE_R_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Rhythm** Red",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1079775654108745838/rdrd_r_c.png"
+        }
     ],
- 
-      "RERE_V_B": [
-    {
-    "name": "<:emoji_44:1079421589243838525> **Taylor Swift Vocal** Red",
-    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775575931113612/rdrd_v_b.png"
-    }
+    "RERE_V_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Vocal** Red",
+            "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775575931113612/rdrd_v_b.png"
+        }
     ],
- 
-      "RERE_D_B": [
-    {
-    "name": "<:emoji_44:1079421589243838525> **Taylor Swift Dance** Red",
-    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775625746845716/rdrd_d_b.png"
-    }
+    "RERE_D_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Dance** Red",
+            "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775625746845716/rdrd_d_b.png"
+        }
     ],
- 
-       "RERE_R_B": [
-    {
-    "name": "<:emoji_44:1079421589243838525> **Taylor Swift Rhythm** Red",
-    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775654444269651/rdrd_r_b.png"
-    }
+    "RERE_R_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Rhythm** Red",
+            "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775654444269651/rdrd_r_b.png"
+        }
     ],
- 
-       "RERE_V_A": [
-    {
-    "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Vocal** Red",
-    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775576191152361/rdrd_v_a.png"
-    }
+    "RERE_V_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Vocal** Red",
+            "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775576191152361/rdrd_v_a.png"
+        }
     ],
- 
-      "RERE_D_A": [
-    {
-    "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Dance** Red",
-    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775625952370852/rdrd_d_a.png"
-    }
+    "RERE_D_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Dance** Red",
+            "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775625952370852/rdrd_d_a.png"
+        }
     ],
- 
-       "RERE_R_A": [
-    {
-    "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Rhythm** Red",
-    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775654926635008/rdrd_r_a.png"
-    }
+    "RERE_R_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Rhythm** Red",
+            "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775654926635008/rdrd_r_a.png"
+        }
     ],
- 
-        "RERE_V_S": [
-    {
-    "name": "<:emoji_46:1079421633242087464>  **Taylor Swift Vocal** Red",
-    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775576451190875/rdrd_v_s.png"
-    }
+    "RERE_V_S": [
+        {
+            "name": "<:emoji_46:1079421633242087464>  **Taylor Swift Vocal** Red",
+            "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775576451190875/rdrd_v_s.png"
+        }
     ],
- 
-      "RERE_D_S": [
-    {
-    "name": "<:emoji_46:1079421633242087464>  **Taylor Swift Dance** Red",
-    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775626183053473/rdrd_d_s.png"
-    }
+    "RERE_D_S": [
+        {
+            "name": "<:emoji_46:1079421633242087464>  **Taylor Swift Dance** Red",
+            "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775626183053473/rdrd_d_s.png"
+        }
     ],
- 
-       "RERE_R_S": [
-    {
-    "name": "<:emoji_46:1079421633242087464>  **Taylor Swift Rhythm** Red",
-    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775655220215828/rdrd_r_s.png"
-    }
+    "RERE_R_S": [
+        {
+            "name": "<:emoji_46:1079421633242087464>  **Taylor Swift Rhythm** Red",
+            "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775655220215828/rdrd_r_s.png"
+        }
     ],
- 
-         "RERE_V_R": [
-    {
-    "name": "<:emoji_47:1079421657149612122>   **Taylor Swift Vocal** Red",
-    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775576702865498/rdrd_v_r.png"
-    }
+    "RERE_V_R": [
+        {
+            "name": "<:emoji_47:1079421657149612122>   **Taylor Swift Vocal** Red",
+            "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775576702865498/rdrd_v_r.png"
+        }
     ],
- 
-      "RERE_D_R": [
-    {
-    "name": "<:emoji_47:1079421657149612122>   **Taylor Swift Dance** Red",
-    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775626451505303/rdrd_d_r.png"
-    }
+    "RERE_D_R": [
+        {
+            "name": "<:emoji_47:1079421657149612122>   **Taylor Swift Dance** Red",
+            "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775626451505303/rdrd_d_r.png"
+        }
     ],
- 
-       "RERE_R_R": [
-    {
-    "name": "<:emoji_47:1079421657149612122>   **Taylor Swift Rhythm** Red",
-    "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775655505444895/rdrd_r_r.png"
-    }
+    "RERE_R_R": [
+        {
+            "name": "<:emoji_47:1079421657149612122>   **Taylor Swift Rhythm** Red",
+            "image": "https://cdn.discordapp.com/attachments/1078539963643199518/1079775655505444895/rdrd_r_r.png"
+        }
     ],
- 
-      "NEST_V_C": [
-    {
-    "name": "<:emoji_43:1079421569681596427> **Taylor Swift Vocal** New Soundtrack",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404266621079592/Untitled836_20230301160431.png"
-    }
+    "NEST_V_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Vocal** New Soundtrack",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404266621079592/Untitled836_20230301160431.png"
+        }
     ],
- 
-       "NEST_D_C": [
-    {
-    "name": "<:emoji_43:1079421569681596427> **Taylor Swift Dance** New Soundtrack",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404268013604874/Untitled836_20230301160613.png"
-    }
+    "NEST_D_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Dance** New Soundtrack",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404268013604874/Untitled836_20230301160613.png"
+        }
     ],
- 
-        "NEST_R_C": [
-    {
-    "name": "<:emoji_43:1079421569681596427> **Taylor Swift Rhythm** New Soundtrack",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404311965704192/Untitled836_20230301160646.png"
-    }
+    "NEST_R_C": [
+        {
+            "name": "<:emoji_43:1079421569681596427> **Taylor Swift Rhythm** New Soundtrack",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404311965704192/Untitled836_20230301160646.png"
+        }
     ],
-        "NEST_V_B": [
-    {
-    "name": "<:emoji_44:1079421589243838525> **Taylor Swift Vocal** New Soundtrack",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404267065671700/Untitled836_20230301160435.png"
-    }
+    "NEST_V_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Vocal** New Soundtrack",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404267065671700/Untitled836_20230301160435.png"
+        }
     ],
- 
-        "NEST_D_B": [
-    {
-    "name": "<:emoji_44:1079421589243838525> **Taylor Swift Dance** New Soundtrack",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404268244275241/Untitled836_20230301160617.png"
-    }
+    "NEST_D_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Dance** New Soundtrack",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404268244275241/Untitled836_20230301160617.png"
+        }
     ],
- 
-         "NEST_R_B": [
-    {
-    "name": "<:emoji_44:1079421589243838525> **Taylor Swift Rhythm** New Soundtrack",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404312259297280/Untitled836_20230301160649.png"
-    }
+    "NEST_R_B": [
+        {
+            "name": "<:emoji_44:1079421589243838525> **Taylor Swift Rhythm** New Soundtrack",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404312259297280/Untitled836_20230301160649.png"
+        }
     ],
- 
-        "NEST_V_A": [
-    {
-    "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Vocal** New Soundtrack",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404267317350410/Untitled836_20230301160438.png"
-    }
+    "NEST_V_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Vocal** New Soundtrack",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404267317350410/Untitled836_20230301160438.png"
+        }
     ],
- 
-         "NEST_D_A": [
-    {
-    "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Dance** New Soundtrack",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404268500123659/Untitled836_20230301160621.png"
-    }
+    "NEST_D_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Dance** New Soundtrack",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404268500123659/Untitled836_20230301160621.png"
+        }
     ],
- 
-  
-         "NEST_R_A": [
-    {
-    "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Rhythm** New Soundtrack",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404312506765343/Untitled836_20230301160652.png"
-    }
+    "NEST_R_A": [
+        {
+            "name": "<:emoji_45:1079421612182491208>  **Taylor Swift Rhythm** New Soundtrack",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404312506765343/Untitled836_20230301160652.png"
+        }
     ],
- 
     "NEST_V_S": [
-    {
-    "name": "<:emoji_46:1079421633242087464> **Taylor Swift Vocal** New Soundtrack",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404267577380894/Untitled836_20230301160442.png"
-    }
+        {
+            "name": "<:emoji_46:1079421633242087464> **Taylor Swift Vocal** New Soundtrack",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404267577380894/Untitled836_20230301160442.png"
+        }
     ],
- 
-     "NEST_D_S": [
-    {
-    "name": "<:emoji_46:1079421633242087464> **Taylor Swift Dance** New Soundtrack",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404268743413782/Untitled836_20230301160624.png"
-    }
+    "NEST_D_S": [
+        {
+            "name": "<:emoji_46:1079421633242087464> **Taylor Swift Dance** New Soundtrack",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404268743413782/Untitled836_20230301160624.png"
+        }
     ],
- 
-      "NEST_R_S": [
-    {
-    "name": "<:emoji_46:1079421633242087464> **Taylor Swift Rhythm** New Soundtrack",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404312821342308/Untitled836_20230301160655.png"
-    }
+    "NEST_R_S": [
+        {
+            "name": "<:emoji_46:1079421633242087464> **Taylor Swift Rhythm** New Soundtrack",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404312821342308/Untitled836_20230301160655.png"
+        }
     ],
- 
-         "NEST_V_R": [
-    {
-    "name": "<:emoji_47:1079421657149612122>   **Taylor Swift Vocal** New Soundtrack",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404267782897734/Untitled836_20230301160445.png"
-    }
+    "NEST_V_R": [
+        {
+            "name": "<:emoji_47:1079421657149612122>   **Taylor Swift Vocal** New Soundtrack",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404267782897734/Untitled836_20230301160445.png"
+        }
     ],
- 
-          "NEST_D_R": [
-    {
-    "name": "<:emoji_47:1079421657149612122>   **Taylor Swift Dance** New Soundtrack",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404268986667029/Untitled836_20230301160627.png"
-    }
+    "NEST_D_R": [
+        {
+            "name": "<:emoji_47:1079421657149612122>   **Taylor Swift Dance** New Soundtrack",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404268986667029/Untitled836_20230301160627.png"
+        }
     ],
-           "NEST_R_R": [
-    {
-    "name": "<:emoji_47:1079421657149612122>   **Taylor Swift Rhythm** New Soundtrack",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404313056215061/Untitled836_20230301160721.png"
-    }
+    "NEST_R_R": [
+        {
+            "name": "<:emoji_47:1079421657149612122>   **Taylor Swift Rhythm** New Soundtrack",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080404313056215061/Untitled836_20230301160721.png"
+        }
     ],
- 
-"LOLO_V_C": [
-    {
-    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Lover",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133228318425118/Untitled551_20230228221555.png"
-    }
+    "LOLO_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Lover",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133228318425118/Untitled551_20230228221555.png"
+        }
     ],
- 
-        "LOLO_V_B": [
-    {
-    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Lover",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133228599463936/Untitled551_20230228221552.png"
-    }
+    "LOLO_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Lover",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133228599463936/Untitled551_20230228221552.png"
+        }
     ],
- 
-         "LOLO_V_A": [
-    {
-    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Lover",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133228851105792/Untitled551_20230228221549.png"
-    }
+    "LOLO_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Lover",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133228851105792/Untitled551_20230228221549.png"
+        }
     ],
- 
-          "LOLO_V_S": [
-    {
-    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Lover",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133229098565692/Untitled551_20230228221545.png"
-    }
+    "LOLO_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Lover",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133229098565692/Untitled551_20230228221545.png"
+        }
     ],
- 
-           "LOLO_V_R": [
-    {
-    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Lover",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133229350244412/Untitled551_20230228221537.png"
-    }
+    "LOLO_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Lover",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133229350244412/Untitled551_20230228221537.png"
+        }
     ],
- 
-"LOLO_D_C": [
-    {
-    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Lover",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133205929242655/Untitled551_20230228221624.png"
-    }
+    "LOLO_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Lover",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133205929242655/Untitled551_20230228221624.png"
+        }
     ],
- 
-        "LOLO_D_B": [
-    {
-    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Lover",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133205614665738/Untitled551_20230228221627.png"
-    }
+    "LOLO_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Lover",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133205614665738/Untitled551_20230228221627.png"
+        }
     ],
- 
-         "LOLO_D_A": [
-    {
-    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Lover",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133205195231242/Untitled551_20230228221632.png"
-    }
+    "LOLO_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Lover",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133205195231242/Untitled551_20230228221632.png"
+        }
     ],
- 
-          "LOLO_D_S": [
-    {
-    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Lover",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133204972941352/Untitled551_20230228221635.png"
-    }
+    "LOLO_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Lover",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133204972941352/Untitled551_20230228221635.png"
+        }
     ],
- 
-           "LOLO_D_R": [
-    {
-    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Lover",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133204662558822/Untitled551_20230228221640.png"
-    }
+    "LOLO_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Lover",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133204662558822/Untitled551_20230228221640.png"
+        }
     ],
- 
-"LOLO_R_C": [
-    {
-    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Lover",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133203119054899/Untitled551_20230228221718.png"
-    }
+    "LOLO_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Lover",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133203119054899/Untitled551_20230228221718.png"
+        }
     ],
- 
-        "LOLO_R_B": [
-    {
-    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Lover",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133204176023552/Untitled551_20230228221709.png"
-    }
+    "LOLO_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Lover",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133204176023552/Untitled551_20230228221709.png"
+        }
     ],
- 
-         "LOLO_R_A": [
-    {
-    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Lover",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133203744006175/Untitled551_20230228221712.png"
-    }
+    "LOLO_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Lover",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133203744006175/Untitled551_20230228221712.png"
+        }
     ],
- 
-          "LOLO_R_S": [
-    {
-    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Lover",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133203458789507/Untitled551_20230228221714.png"
-    }
+    "LOLO_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Lover",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133203458789507/Untitled551_20230228221714.png"
+        }
     ],
- 
-           "LOLO_R_R": [
-    {
-    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Lover",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133204440256672/Untitled551_20230228221703.png"
-    }
+    "LOLO_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Lover",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080133204440256672/Untitled551_20230228221703.png"
+        }
     ],
- 
- "WTNY_V_C": [
-    {
-    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573915296763974/Untitled536_20230224150556.png"
-    }
+    "WTNY_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Welcome to New York",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573915296763974/Untitled536_20230224150556.png"
+        }
     ],
- 
-        "WTNY_V_B": [
-    {
-    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573915024138310/Untitled536_20230224150602.png"
-    }
+    "WTNY_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Welcome to New York",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573915024138310/Untitled536_20230224150602.png"
+        }
     ],
- 
-         "WTNY_V_A": [
-    {
-    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573914638270515/Untitled536_20230224150605.png"
-    }
+    "WTNY_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Welcome to New York",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573914638270515/Untitled536_20230224150605.png"
+        }
     ],
- 
-          "WTNY_V_S": [
-    {
-    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573914327879730/Untitled536_20230224150608.png"
-    }
+    "WTNY_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Welcome to New York",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573914327879730/Untitled536_20230224150608.png"
+        }
     ],
- 
-           "WTNY_V_R": [
-    {
-    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573914013310986/Untitled536_20230224150610.png"
-    }
+    "WTNY_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Welcome to New York",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573914013310986/Untitled536_20230224150610.png"
+        }
     ],
- 
- "WTNY_D_C": [
-    {
-    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573895545794580/Untitled536_20230224150617.png"
-    }
+    "WTNY_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Welcome to New York",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573895545794580/Untitled536_20230224150617.png"
+        }
     ],
- 
-        "WTNY_D_B": [
-    {
-    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573894363000852/Untitled536_20230224150625.png"
-    }
+    "WTNY_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Welcome to New York",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573894363000852/Untitled536_20230224150625.png"
+        }
     ],
- 
-         "WTNY_D_A": [
-    {
-    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573894811779133/Untitled536_20230224150622.png"
-    }
+    "WTNY_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Welcome to New York",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573894811779133/Untitled536_20230224150622.png"
+        }
     ],
- 
-          "WTNY_D_S": [
-    {
-    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573874016436244/Untitled536_20230224150634.png"
-    }
+    "WTNY_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Welcome to New York",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573874016436244/Untitled536_20230224150634.png"
+        }
     ],
- 
-           "WTNY_D_R": [
-    {
-    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573873668300800/Untitled536_20230224150638.png"
-    }
+    "WTNY_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Welcome to New York",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573873668300800/Untitled536_20230224150638.png"
+        }
     ],
- 
-  "WTNY_R_C": [
-    {
-    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573874016436244/Untitled536_20230224150634.png"
-    }
+    "WTNY_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Welcome to New York",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573874016436244/Untitled536_20230224150634.png"
+        }
     ],
- 
-        "WTNY_R_B": [
-    {
-    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573873668300800/Untitled536_20230224150638.png"
-    }
+    "WTNY_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Welcome to New York",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573873668300800/Untitled536_20230224150638.png"
+        }
     ],
- 
- "WTNY_R_A": [
-    {
-    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573873412456530/Untitled536_20230224150640.png"
-    }
+    "WTNY_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Welcome to New York",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573873412456530/Untitled536_20230224150640.png"
+        }
     ],
- 
-          "WTNY_R_S": [
-    {
-    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573873093693520/Untitled536_20230224150643.png"
-    }
+    "WTNY_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Welcome to New York",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573873093693520/Untitled536_20230224150643.png"
+        }
     ],
- 
-           "WTNY_R_R": [
-    {
-    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Welcome to New York",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573872791691274/Untitled536_20230224150646.png"
-    }
+    "WTNY_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Welcome to New York",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078573872791691274/Untitled536_20230224150646.png"
+        }
     ],
- 
- "REHO_V_C": [
-    {
-    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Holy Ground",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294400174870548/Untitled238_20230301085728.png?width=444&height=579"
-    }
+    "REHO_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Holy Ground",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294400174870548/Untitled238_20230301085728.png?width=444&height=579"
+        }
     ],
- 
-        "REHO_V_B": [
-    {
-    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Holy Ground",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294400535572562/Untitled238_20230301085751.png?width=444&height=579"
-    }
+    "REHO_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Holy Ground",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294400535572562/Untitled238_20230301085751.png?width=444&height=579"
+        }
     ],
- 
-  "REHO_V_A": [
-    {
-    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Holy Ground",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294401022103562/Untitled238_20230301090305.png?width=444&height=579"
-    }
+    "REHO_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Holy Ground",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294401022103562/Untitled238_20230301090305.png?width=444&height=579"
+        }
     ],
- 
-          "REHO_V_S": [
-    {
-    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Holy Ground",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294401357664286/Untitled238_20230301085950.png?width=444&height=579"
-    }
+    "REHO_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Holy Ground",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294401357664286/Untitled238_20230301085950.png?width=444&height=579"
+        }
     ],
- 
-           "REHO_V_R": [
-    {
-    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Holy Ground",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294401865166888/Untitled238_20230301090001.png?width=444&height=579"
-    }
+    "REHO_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Holy Ground",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294401865166888/Untitled238_20230301090001.png?width=444&height=579"
+        }
     ],
- 
- "REHO_D_C": [
-    {
-    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Holy Ground",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294404285288498/Untitled238_20230301090013.png?width=444&height=579"
-    }
+    "REHO_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Holy Ground",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294404285288498/Untitled238_20230301090013.png?width=444&height=579"
+        }
     ],
- 
-        "REHO_D_B": [
-    {
-    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Holy Ground",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294402741784697/Untitled238_20230301085803.png?width=444&height=579"
-    }
+    "REHO_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Holy Ground",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294402741784697/Untitled238_20230301085803.png?width=444&height=579"
+        }
     ],
- 
-  "REHO_D_A": [
-    {
-    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Holy Ground",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294403219927040/Untitled238_20230301090333.png?width=444&height=579"
-    }
+    "REHO_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Holy Ground",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294403219927040/Untitled238_20230301090333.png?width=444&height=579"
+        }
     ],
- 
-          "REHO_D_S": [
-    {
-    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Holy Ground",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294403706458122/Untitled238_20230301085938.png?width=444&height=579"
-    }
+    "REHO_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Holy Ground",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294403706458122/Untitled238_20230301085938.png?width=444&height=579"
+        }
     ],
- 
-           "REHO_D_R": [
-    {
-    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Holy Ground",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294404285288498/Untitled238_20230301090013.png?width=444&height=579"
-    }
+    "REHO_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Holy Ground",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294404285288498/Untitled238_20230301090013.png?width=444&height=579"
+        }
     ],
- 
- "REHO_R_C": [
-    {
-    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Holy Ground",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294463731154974/Untitled238_20230301085710.png?width=444&height=579"
-    }
+    "REHO_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Holy Ground",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294463731154974/Untitled238_20230301085710.png?width=444&height=579"
+        }
     ],
- 
-        "REHO_R_B": [
-    {
-    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Holy Ground",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294464163156008/Untitled238_20230301085811.png?width=444&height=579"
-    }
+    "REHO_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Holy Ground",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294464163156008/Untitled238_20230301085811.png?width=444&height=579"
+        }
     ],
- 
-  "REHO_R_A": [
-    {
-    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Holy Ground",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294464779735080/Untitled238_20230301085851.png?width=444&height=579"
-    }
+    "REHO_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Holy Ground",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294464779735080/Untitled238_20230301085851.png?width=444&height=579"
+        }
     ],
- 
-          "REHO_R_S": [
-    {
-    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Holy Ground",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294465350156338/Untitled238_20230301085925.png?width=444&height=579"
-    }
+    "REHO_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Holy Ground",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294465350156338/Untitled238_20230301085925.png?width=444&height=579"
+        }
     ],
- 
-           "REHO_R_R": [
-    {
-    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Holy Ground",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294465811517480/Untitled238_20230301090020.png?width=444&height=579"
-    }
+    "REHO_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Holy Ground",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294465811517480/Untitled238_20230301090020.png?width=444&height=579"
+        }
     ],
-    
-"TWEN_V_C": [
-    {
-    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** 22",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645659940438107/RD22_V_C.png?width=423&height=579"
-    }
+    "TWEN_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** 22",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645659940438107/RD22_V_C.png?width=423&height=579"
+        }
     ],
- 
-        "TWEN_V_B": [
-    {
-    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** 22",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645660192088195/RD22_V_B.png?width=423&height=579"
-    }
+    "TWEN_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** 22",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645660192088195/RD22_V_B.png?width=423&height=579"
+        }
     ],
- 
- "TWEN_V_A": [
-    {
-    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** 22",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645660468908032/RD22_V_A.png?width=423&height=579"
-    }
+    "TWEN_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** 22",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645660468908032/RD22_V_A.png?width=423&height=579"
+        }
     ],
- 
-          "TWEN_V_S": [
-    {
-    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** 22",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645660728967238/RD22_V_S.png?width=423&height=579"
-    }
+    "TWEN_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** 22",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645660728967238/RD22_V_S.png?width=423&height=579"
+        }
     ],
- 
-           "TWEN_V_R": [
-    {
-    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** 22",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645661030948984/RD22_V_R.png?width=423&height=579"
-    }
+    "TWEN_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** 22",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645661030948984/RD22_V_R.png?width=423&height=579"
+        }
     ],
-    
     "TWEN_D_C": [
-    {
-    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** 22",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645684816838747/RD22_D_C.png?width=423&height=579"
-    }
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** 22",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645684816838747/RD22_D_C.png?width=423&height=579"
+        }
     ],
- 
-        "TWEN_D_B": [
-    {
-    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** 22",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645685152403476/RD22_D_B.png?width=423&height=579"
-    }
+    "TWEN_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** 22",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645685152403476/RD22_D_B.png?width=423&height=579"
+        }
     ],
- 
- "TWEN_D_A": [
-    {
-    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** 22",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645685399859280/RD22_D_A.png?width=423&height=579"
-    }
+    "TWEN_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** 22",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645685399859280/RD22_D_A.png?width=423&height=579"
+        }
     ],
- 
-          "TWEN_D_S": [
-    {
-    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** 22",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645685676671036/RD22_D_S.png?width=423&height=579"
-    }
+    "TWEN_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** 22",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645685676671036/RD22_D_S.png?width=423&height=579"
+        }
     ],
- 
-           "TWEN_D_R": [
-    {
-    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** 22",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645685978681364/RD22_D_R.png?width=423&height=579"
-    }
+    "TWEN_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** 22",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645685978681364/RD22_D_R.png?width=423&height=579"
+        }
     ],
-    
     "TWEN_R_C": [
-    {
-    "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** 22",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645729150640179/RD22_R_C.png?width=423&height=579"
-    }
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** 22",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645729150640179/RD22_R_C.png?width=423&height=579"
+        }
     ],
- 
-        "TWEN_R_B": [
-    {
-    "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** 22",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645729452625960/RDD22_R_B.png?width=423&height=579"
-    }
+    "TWEN_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** 22",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645729452625960/RDD22_R_B.png?width=423&height=579"
+        }
     ],
- 
- "TWEN_R_A": [
-    {
-    "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** 22",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645729742045184/RD22_R_A.png?width=423&height=579"
-    }
+    "TWEN_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** 22",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645729742045184/RD22_R_A.png?width=423&height=579"
+        }
     ],
- 
-          "TWEN_R_S": [
-    {
-    "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** 22",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645730044026900/RD22_R_S.png?width=423&height=579"
-    }
+    "TWEN_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** 22",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645730044026900/RD22_R_S.png?width=423&height=579"
+        }
     ],
- 
-           "TWEN_R_R": [
-    {
-    "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** 22",
-    "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645730366984283/RD22_R_R.png?width=423&height=579"
-    }
+    "TWEN_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** 22",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645730366984283/RD22_R_R.png?width=423&height=579"
+        }
     ]
-           }
+}
