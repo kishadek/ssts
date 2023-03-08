@@ -32,8 +32,31 @@
       "NEWSOUNDTRACK_R_TEXT": "`Limited` New Soundtrack Rhythm",
       "WTNY_V_TEXT": "`Limited` Welcome to New York Vocal",
       "WTNY_D_TEXT": "`Limited` Welcome to New York Dance",
-      "WTNY_R_TEXT": "`Limited` Welcome to New York Rhythm"
+      "WTNY_R_TEXT": "`Limited` Welcome to New York Rhythm",
       
+      
+      
+      "TAYLORSWIFT_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/P_TAFREE.png",
+      "FEARLESS_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/P_FEFREE.png",
+      "SPEAKNOW_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/P_SPFREE.png",
+      "RED_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/P_REFREE.png",
+      "NINE_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/P_19FREE.png",
+      "REPUTATION_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/P_REFREE.png",
+      "LOVER_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/P_LOFREE.png",
+      "FOLKLORE_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/P_FOFREE.png",
+      "EVERMORE_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/P_EVFREE.png",
+      "MIDNIGHTS_FREE": "https://superstartaylorswift.sirv.com/resources/images/profile/P_MDFREE.png",
+      
+            "TAYLORSWIFT_FREE_TEXT": "`Free` Taylor Swift",
+      "FEARLESS_FREE_TEXT": "`Free` Fearless",
+      "SPEAKNOW_FREE_TEXT": "`Free` Speak Now",
+      "RED_FREE_TEXT": "`Free` Red",
+      "NINE_FREE_TEXT": "`Free` 1989",
+      "REPUTATION_FREE_TEXT": "`Free` reputation",
+      "LOVER_FREE_TEXT": "`Free` Lover",
+      "FOLKLORE_FREE_TEXT": "`Free` folklore",
+      "EVERMORE_FREE_TEXT": "`Free` evermore",
+      "MIDNIGHTS_FREE_TEXT": "`Free` Midnights"
       }
       ]
                              }
