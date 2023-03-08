@@ -6,7 +6,15 @@
       "TWEN_R": "https://superstartaylorswift.sirv.com/resources/images/profile/limited/p_22_r.png",
       "RED_V": "https://superstartaylorswift.sirv.com/resources/images/profile/limited/p_red_v.png",
       "RED_D": "https://superstartaylorswift.sirv.com/resources/images/profile/limited/p_red_d.png",
-      "RED_R": "https://superstartaylorswift.sirv.com/resources/images/profile/limited/p_red_r.png"
+      "RED_R": "https://superstartaylorswift.sirv.com/resources/images/profile/limited/p_red_r.png",
+      
+      "TWEN_V_TEXT": "`Limited` 22 Vocal",
+      "TWEN_D_TEXT": "`Limited` 22 Dance",
+      "TWEN_R_TEXT": "`Limited` 22 Rhythm",
+      "RED_V_TEXT": "`Limited` Red Vocal",
+      "RED_D_TEXT": "`Limited` Red Dance",
+      "RED_R_TEXT": "`Limited` Red Rhythm"
+      
       }
       ]
                              }
