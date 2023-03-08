@@ -2,7 +2,34 @@
   "wallpapers": [
     {
       "TAYLORSWIFT_FREE": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_taylorswift_free_l.png?format=png",
-      "TAYLORSWIFT_TEXT": "`Free` **Taylor Swift** Wallpaper"
+      "TAYLORSWIFT_TEXT": "`Free` **Taylor Swift** Wallpaper",
+      
+      "FEARLESS_FREE": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_fearless_free_l.png?format=png",
+      "FEARLESS_TEXT": "`Free` **Fearless** Wallpaper",
+      
+      "SPEAKNOW_FREE": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_speaknow_free_l.png?format=png",
+      "SPEAKNOW_TEXT": "`Free` **Speak Now** Wallpaper",
+      
+      "RED_FREE": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_red_free_l.png?format=png",
+      "RED_TEXT": "`Free` **Red** Wallpaper",
+      
+      "1989_FREE": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_1989_free_l.png?format=png",
+      "1989_TEXT": "`Free` **1989** Wallpaper",
+      
+      "REPUTATION_FREE": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_reputation_free_l.png?format=png",
+      "REPUTATION_TEXT": "`Free` **reputation** Wallpaper",
+      
+      "LOVER_FREE": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_lover_free_l.png?format=png",
+      "LOVER_TEXT": "`Free` **Lover** Wallpaper",
+      
+      "FOLKLORE_FREE": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_folklore_free_l.png?format=png",
+      "FOLKLORE_TEXT": "`Free` **folklore** Wallpaper",
+      
+      "EVERMORE_FREE": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_evermore_free_l.png?format=png",
+      "EVERMORE_TEXT": "`Free` **evermore** Wallpaper",
+      
+      "MIDNIGHTS_FREE": "https://superstartaylorswift.sirv.com/resources/images/mylobby/background/large/mylobby_bg_midnights_free_l.png?format=png",
+      "MIDNIGHTS_TEXT": "`Free` **Midnights** Wallpaper"
       }
       ]
                              }
