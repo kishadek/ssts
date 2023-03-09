@@ -886,5 +886,98 @@
             "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** 22",
             "image": "https://media.discordapp.net/attachments/1078539963643199518/1078645730366984283/RD22_R_R.png?width=423&height=579"
         }
+    ],
+    
+        "MDWC_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Would've, Could've, Should've",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/wcs/5.png?format=png"
+        }
+    ],
+    "MDWC_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Would've, Could've, Should've",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/wcs/4.png?format=png"
+        }
+    ],
+    "MDWC_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Would've, Could've, Should've",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/wcs/3.png?format=png"
+        }
+    ],
+    "MDWC_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Would've, Could've, Should've",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/wcs/4.png?format=png"
+        }
+    ],
+    "MDWC_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Would've, Could've, Should've",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/wcs/1.png?format=png"
+        }
+    ],
+    
+    "MDWC_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Would've, Could've, Should've",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/wcs/10.png?format=png"
+        }
+    ],
+    "MDWC_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Would've, Could've, Should've",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/wcs/9.png?format=png"
+        }
+    ],
+    "MDWC_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Would've, Could've, Should've",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/wcs/8.png?format=png"
+        }
+    ],
+    "MDWC_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Would've, Could've, Should've",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/wcs/7.png?format=png"
+        }
+    ],
+    "MDWC_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Would've, Could've, Should've",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/wcs/6.png?format=png"
+        }
+    ],
+    
+    "MDWC_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Would've, Could've, Should've",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/wcs/16.png?format=png"
+        }
+    ],
+    "MDWC_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Would've, Could've, Should've",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/wcs/14.png?format=png"
+        }
+    ],
+    "MDWC_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Would've, Could've, Should've",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/wcs/13.png?format=png"
+        }
+    ],
+    "MDWC_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Would've, Could've, Should've",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/wcs/12.png?format=png"
+        }
+    ],
+    "MDWC_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Would've, Could've, Should've",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/wcs/11.png?format=png"
+        }
     ]
 }
