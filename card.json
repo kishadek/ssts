@@ -1072,5 +1072,98 @@
             "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** The Way I Loved You",
             "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless_tv/11.png?format=png"
         }
+    ],
+    
+    "BDBL_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Bad Blood",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/5.png?format=png"
+        }
+    ],
+    "BDBL_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Bad Blood",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/4.png?format=png"
+        }
+    ],
+    "BDBL_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Bad Blood",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/3.png?format=png"
+        }
+    ],
+    "BDBL_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Bad Blood",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/4.png?format=png"
+        }
+    ],
+    "BDBL_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Bad Blood",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/1.png?format=png"
+        }
+    ],
+    
+    "BDBL_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Bad Blood",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/10.png?format=png"
+        }
+    ],
+    "BDBL_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Bad Blood",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/9.png?format=png"
+        }
+    ],
+    "BDBL_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Bad Blood",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/8.png?format=png"
+        }
+    ],
+    "BDBL_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Bad Blood",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/7.png?format=png"
+        }
+    ],
+    "BDBL_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Bad Blood",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/6.png?format=png"
+        }
+    ],
+    
+    "BDBL_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Bad Blood",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/16.png?format=png"
+        }
+    ],
+    "BDBL_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Bad Blood",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/14.png?format=png"
+        }
+    ],
+    "BDBL_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Bad Blood",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/13.png?format=png"
+        }
+    ],
+    "BDBL_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Bad Blood",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/12.png?format=png"
+        }
+    ],
+    "BDBL_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Bad Blood",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/11.png?format=png"
+        }
     ]
 }
