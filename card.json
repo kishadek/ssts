@@ -1258,5 +1258,98 @@
             "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** The Archer",
             "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/11.png?format=png"
         }
+    ],
+    
+    "TSOS_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Our Song",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/5.png?format=png"
+        }
+    ],
+    "TSOS_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Our Song",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/4.png?format=png"
+        }
+    ],
+    "TSOS_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Our Song",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/3.png?format=png"
+        }
+    ],
+    "TSOS_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Our Song",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/4.png?format=png"
+        }
+    ],
+    "TSOS_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Our Song",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/1.png?format=png"
+        }
+    ],
+    
+    "TSOS_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Our Song",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/10.png?format=png"
+        }
+    ],
+    "TSOS_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Our Song",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/9.png?format=png"
+        }
+    ],
+    "TSOS_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Our Song",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/8.png?format=png"
+        }
+    ],
+    "TSOS_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Our Song",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/7.png?format=png"
+        }
+    ],
+    "TSOS_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Our Song",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/6.png?format=png"
+        }
+    ],
+    
+    "TSOS_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Our Song",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/16.png?format=png"
+        }
+    ],
+    "TSOS_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Our Song",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/14.png?format=png"
+        }
+    ],
+    "TSOS_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Our Song",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/13.png?format=png"
+        }
+    ],
+    "TSOS_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Our Song",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/12.png?format=png"
+        }
+    ],
+    "TSOS_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Our Song",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/11.png?format=png"
+        }
     ]
 }
