@@ -19,7 +19,9 @@
       "BADBLOOD_V": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/p_badblood_v.png",
       "BADBLOOD_D": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/p_badblood_d.png",
       "BADBLOOD_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/p_badblood_r.png",
-
+      "THEARCHER_V": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/p_thearcher_v.png",
+      "THEARCHER_D": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/p_thearcher_d.png",
+      "THEARCHER_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/p_thearcher_r.png",
       
       "TWEN_V_TEXT": "`Limited` 22 Vocal",
       "TWEN_D_TEXT": "`Limited` 22 Dance",
@@ -39,6 +41,9 @@
       "BADBLOOD_V_TEXT": "`Limited` Bad Blood Vocal",
       "BADBLOOD_D_TEXT": "`Limited` Bad Blood Dance",
       "BADBLOOD_R_TEXT": "`Limited` Bad Blood Rhythm",
+      "THEARCHER_V_TEXT": "`Limited` The Archer Vocal",
+      "THEARCHER_D_TEXT": "`Limited` The Archer Dance",
+      "THEARCHER_R_TEXT": "`Limited` The Archer Rhythm",
       
       
       
