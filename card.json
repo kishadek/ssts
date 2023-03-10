@@ -1165,5 +1165,98 @@
             "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Bad Blood",
             "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/11.png?format=png"
         }
+    ],
+    
+    "LOTA_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** The Archer",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/5.png?format=png"
+        }
+    ],
+    "LOTA_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** The Archer",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/4.png?format=png"
+        }
+    ],
+    "LOTA_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** The Archer",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/3.png?format=png"
+        }
+    ],
+    "LOTA_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** The Archer",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/4.png?format=png"
+        }
+    ],
+    "LOTA_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** The Archer",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/1.png?format=png"
+        }
+    ],
+    
+    "LOTA_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** The Archer",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/10.png?format=png"
+        }
+    ],
+    "LOTA_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** The Archer",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/9.png?format=png"
+        }
+    ],
+    "LOTA_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** The Archer",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/8.png?format=png"
+        }
+    ],
+    "LOTA_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** The Archer",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/7.png?format=png"
+        }
+    ],
+    "LOTA_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** The Archer",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/6.png?format=png"
+        }
+    ],
+    
+    "LOTA_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** The Archer",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/16.png?format=png"
+        }
+    ],
+    "LOTA_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** The Archer",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/14.png?format=png"
+        }
+    ],
+    "LOTA_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** The Archer",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/13.png?format=png"
+        }
+    ],
+    "LOTA_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** The Archer",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/12.png?format=png"
+        }
+    ],
+    "LOTA_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** The Archer",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/11.png?format=png"
+        }
     ]
 }
