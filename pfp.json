@@ -24,7 +24,10 @@
       "THEARCHER_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/the_archer/p_thearcher_r.png",
       "OURSONG_V": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/p_oursong_v.png",
       "OURSONG_D": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/p_oursong_d.png",
-      "OURSONG_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/p_oursong_r.png,
+      "OURSONG_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/our_song/p_oursong_r.png",
+      "BACKTODECEMBER_V": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/backtodecember/p_backtodecember_v.png",
+      "BACKTODECEMBER_D": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/backtodecember/p_backtodecember_d.png",
+      "BACKTODECEMBER_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/backtodecember/p_backtodecember_r.png",
       
       "TWEN_V_TEXT": "`Limited` 22 Vocal",
       "TWEN_D_TEXT": "`Limited` 22 Dance",
@@ -50,6 +53,9 @@
       "OURSONG_V_TEXT": "`Limited` Our Song Vocal",
       "OURSONG_D_TEXT": "`Limited` Our Song Dance",
       "OURSONG_R_TEXT": "`Limited` Our Song Rhythm",
+      "BACKTODECEMBER_V_TEXT": "`Limited` Back to December Vocal",
+      "BACKTODECEMBER_D_TEXT": "`Limited` Back to December Dance",
+      "BACKTODECEMBER_R_TEXT": "`Limited` Back to December Rhythm",
       
       
       
