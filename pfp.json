@@ -16,6 +16,9 @@
       "SOITGOES_V": "https://superstartaylorswift.sirv.com/resources/images/profile/limited/p_soitgoes_v.png",
       "SOITGOES_D": "https://superstartaylorswift.sirv.com/resources/images/profile/limited/p_soitgoes_d.png",
       "SOITGOES_R": "https://superstartaylorswift.sirv.com/resources/images/profile/limited/p_soitgoes_r.png",
+      "BADBLOOD_V": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/p_badblood_v.png",
+      "BADBLOOD_D": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/p_badblood_d.png",
+      "BADBLOOD_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/bad_blood/p_badblood_r.png",
 
       
       "TWEN_V_TEXT": "`Limited` 22 Vocal",
@@ -33,6 +36,9 @@
       "WTNY_V_TEXT": "`Limited` Welcome to New York Vocal",
       "WTNY_D_TEXT": "`Limited` Welcome to New York Dance",
       "WTNY_R_TEXT": "`Limited` Welcome to New York Rhythm",
+      "BADBLOOD_V_TEXT": "`Limited` Bad Blood Vocal",
+      "BADBLOOD_D_TEXT": "`Limited` Bad Blood Dance",
+      "BADBLOOD_R_TEXT": "`Limited` Bad Blood Rhythm",
       
       
       
