@@ -28,6 +28,9 @@
       "BACKTODECEMBER_V": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/backtodecember/p_backtodecember_v.png",
       "BACKTODECEMBER_D": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/backtodecember/p_backtodecember_d.png",
       "BACKTODECEMBER_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/backtodecember/p_backtodecember_r.png",
+      "PAPERRINGS_V": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/paper_rings/p_paperrings_v.png",
+      "PAPERRINGS_D": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/paper_rings/p_paperrings_d.png",
+      "PAPERRINGS_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/paper_rings/p_paperrings_r.png",
       
       "TWEN_V_TEXT": "`Limited` 22 Vocal",
       "TWEN_D_TEXT": "`Limited` 22 Dance",
@@ -56,6 +59,9 @@
       "BACKTODECEMBER_V_TEXT": "`Limited` Back to December Vocal",
       "BACKTODECEMBER_D_TEXT": "`Limited` Back to December Dance",
       "BACKTODECEMBER_R_TEXT": "`Limited` Back to December Rhythm",
+      "PAPERRINGS_V_TEXT": "`Limited` Paper Rings Vocal",
+      "PAPERRINGS_D_TEXT": "`Limited` Paper Rings Dance",
+      "PAPERRINGS_R_TEXT": "`Limited` Paper Rings Rhythm",
       
       
       
