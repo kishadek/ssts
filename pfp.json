@@ -31,6 +31,16 @@
       "PAPERRINGS_V": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/paper_rings/p_paperrings_v.png",
       "PAPERRINGS_D": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/paper_rings/p_paperrings_d.png",
       "PAPERRINGS_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/paper_rings/p_paperrings_r.png",
+      "DAYLIGHT_V": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/daylight/p_daylight_v.png",
+      "DAYLIGHT_D": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/daylight/p_daylight_d.png",
+      "DAYLIGHT_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/daylight/p_daylight_r.png",
+      "INTHAF_V": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/inthaf/p_inthaf_v.png",
+      "INTHAF_D": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/inthaf/p_inthaf_d.png",
+      "INTHAF_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/inthaf/p_inthaf_r.png",
+      "NEWROMANTICS_V": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/p_newromantics_v.png",
+      "NEWROMANTICS_D": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/p_newromantics_d.png",
+      "NEWROMANTICS_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/p_newromantics_r.png",
+      
       
       "TWEN_V_TEXT": "`Limited` 22 Vocal",
       "TWEN_D_TEXT": "`Limited` 22 Dance",
@@ -62,6 +72,16 @@
       "PAPERRINGS_V_TEXT": "`Limited` Paper Rings Vocal",
       "PAPERRINGS_D_TEXT": "`Limited` Paper Rings Dance",
       "PAPERRINGS_R_TEXT": "`Limited` Paper Rings Rhythm",
+      "DAYLIGHT_V_TEXT": "`Limited` Daylight Vocal",
+      "DAYLIGHT_D_TEXT": "`Limited` Daylight Dance",
+      "DAYLIGHT_R_TEXT": "`Limited` Daylight Rhythm",
+      "INTHAF_V_TEXT": "`Limited` It's Nice to Have A Friend Vocal",
+      "INTHAF_D_TEXT": "`Limited` It's Nice to Have A Friend Dance",
+      "INTHAF_R_TEXT": "`Limited` It's Nice to Have A Friend Rhythm",
+      "NEWROMANTICS_V_TEXT": "`Limited` New Romantics Vocal",
+      "NEWROMANTICS_D_TEXT": "`Limited` New Romantics Dance",
+      "NEWROMANTICS_R_TEXT": "`Limited` New Romantics Rhythm"
+      
       
       
       
