@@ -1537,5 +1537,98 @@
             "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Paper Rings",
             "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/paper_rings/11.png?format=png"
         }
+    ],
+    
+     "LODL_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Daylight",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1081970616061677639/258_sin_titulo_20230305125954.png"
+        }
+    ],
+    "LODL_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Daylight",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1081970616313331762/258_sin_titulo_20230305130001.png"
+        }
+    ],
+    "LODL_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Daylight",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1081970616544014336/258_sin_titulo_20230305130004.png"
+        }
+    ],
+    "LODL_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Daylight",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1081970616825036841/258_sin_titulo_20230305130006.png"
+        }
+    ],
+    "LODL_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Daylight",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1081970617022165023/258_sin_titulo_20230305130009.png"
+        }
+    ],
+     
+     "LODL_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Daylight",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1081970617248665640/258_sin_titulo_20230305125930.png"
+        }
+    ],
+    "LODL_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Daylight",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1081970617437405325/258_sin_titulo_20230305125933.png"
+        }
+    ],
+    "LODL_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Daylight",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1081970617659699280/258_sin_titulo_20230305125937.png"
+        }
+    ],
+    "LODL_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Daylight",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1081970617932333076/258_sin_titulo_20230305125942.png"
+        }
+    ],
+    "LODL_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Daylight",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1081970618200764527/258_sin_titulo_20230305125944.png"
+        }
+    ],
+     
+     "LODL_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Daylight",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1081970640870985788/258_sin_titulo_20230305125859.png"
+        }
+    ],
+    "LODL_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Daylight",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1081970641261039636/258_sin_titulo_20230305125903.png"
+        }
+    ],
+    "LODL_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Daylight",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1081970641630134293/258_sin_titulo_20230305125906.png"
+        }
+    ],
+    "LODL_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Daylight",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1081970641940516944/258_sin_titulo_20230305125909.png"
+        }
+    ],
+    "LODL_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Daylight",
+            "image": "https://media.discordapp.net/attachments/1078539963643199518/1081970642208948316/258_sin_titulo_20230305125911.png"
+        }
     ]
 }
