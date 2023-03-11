@@ -1723,5 +1723,98 @@
             "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Daylight",
             "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/daylight/11.png?format=png"
         }
+    ],
+    
+    "NERO_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** New Romantics",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/5.png?format=png"
+        }
+    ],
+    "NERO_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** New Romantics",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/4.png?format=png"
+        }
+    ],
+    "NERO_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** New Romantics",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/3.png?format=png"
+        }
+    ],
+    "NERO_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** New Romantics",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/2.png?format=png"
+        }
+    ],
+    "NERO_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** New Romantics",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/1.png?format=png"
+        }
+    ],
+    
+    "NERO_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** New Romantics",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/10.png?format=png"
+        }
+    ],
+    "NERO_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** New Romantics",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/9.png?format=png"
+        }
+    ],
+    "NERO_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** New Romantics",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/8.png?format=png"
+        }
+    ],
+    "NERO_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** New Romantics",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/7.png?format=png"
+        }
+    ],
+    "NERO_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** New Romantics",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/6.png?format=png"
+        }
+    ],
+    
+    "NERO_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** New Romantics",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/16.png?format=png"
+        }
+    ],
+    "NERO_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** New Romantics",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/14.png?format=png"
+        }
+    ],
+    "NERO_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** New Romantics",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/13.png?format=png"
+        }
+    ],
+    "NERO_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** New Romantics",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/12.png?format=png"
+        }
+    ],
+    "NERO_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** New Romantics",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/11.png?format=png"
+        }
     ]
 }
