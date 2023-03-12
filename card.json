@@ -1816,5 +1816,98 @@
             "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** New Romantics",
             "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/newromantics/11.png?format=png"
         }
+    ],
+    
+    "FLTM_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** Tell Me Why",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/5.png?format=png"
+        }
+    ],
+    "FLTM_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** Tell Me Why",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/4.png?format=png"
+        }
+    ],
+    "FLTM_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** Tell Me Why",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/3.png?format=png"
+        }
+    ],
+    "FLTM_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** Tell Me Why",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/2.png?format=png"
+        }
+    ],
+    "FLTM_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Tell Me Why",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/1.png?format=png"
+        }
+    ],
+    
+    "FLTM_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Tell Me Why",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/10.png?format=png"
+        }
+    ],
+    "FLTM_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Tell Me Why",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/9.png?format=png"
+        }
+    ],
+    "FLTM_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Tell Me Why",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/8.png?format=png"
+        }
+    ],
+    "FLTM_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Tell Me Why",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/7.png?format=png"
+        }
+    ],
+    "FLTM_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Tell Me Why",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/6.png?format=png"
+        }
+    ],
+    
+    "FLTM_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Tell Me Why",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/16.png?format=png"
+        }
+    ],
+    "FLTM_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Tell Me Why",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/14.png?format=png"
+        }
+    ],
+    "FLTM_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Tell Me Why",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/13.png?format=png"
+        }
+    ],
+    "FLTM_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Tell Me Why",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/12.png?format=png"
+        }
+    ],
+    "FLTM_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Tell Me Why",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/11.png?format=png"
+        }
     ]
 }
