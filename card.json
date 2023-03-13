@@ -1966,5 +1966,139 @@
             "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Tell Me Why",
             "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/11.png?format=png"
         }
+    ],
+    
+    "LOME_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** ME!",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/me/1.png?format=png"
+        }
+    ],
+    "LOME_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** ME!",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/me/10.png?format=png"
+        }
+    ],
+    "LOME_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** ME!",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/me/9.png?format=png"
+        }
+    ],
+    "LOME_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** ME!",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/me/8.png?format=png"
+        }
+    ],
+    "LOME_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** ME!",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/me/7.png?format=png"
+        }
+    ],
+    "LOME_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** ME!",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/me/6.png?format=png"
+        }
+    ],
+    "LOME_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** ME!",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/me/16.png?format=png"
+        }
+    ],
+    "LOME_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** ME!",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/me/14.png?format=png"
+        }
+    ],
+    "LOME_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** ME!",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/me/13.png?format=png"
+        }
+    ],
+    "LOME_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** ME!",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/me/12.png?format=png"
+        }
+    ],
+    "LOME_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** ME!",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/me/11.png?format=png"
+        }
+    ],
+    
+    "EVRM_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** evermore",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/evermore/1.png?format=png"
+        }
+    ],
+    "EVRM_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** evermore",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/evermore/10.png?format=png"
+        }
+    ],
+    "EVRM_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** evermore",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/evermore/9.png?format=png"
+        }
+    ],
+    "EVRM_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** evermore",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/evermore/8.png?format=png"
+        }
+    ],
+    "EVRM_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** evermore",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/evermore/7.png?format=png"
+        }
+    ],
+    "EVRM_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** evermore",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/evermore/6.png?format=png"
+        }
+    ],
+    "EVRM_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** evermore",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/evermore/16.png?format=png"
+        }
+    ],
+    "EVRM_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** evermore",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/evermore/14.png?format=png"
+        }
+    ],
+    "EVRM_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** evermore",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/evermore/13.png?format=png"
+        }
+    ],
+    "EVRM_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** evermore",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/evermore/12.png?format=png"
+        }
+    ],
+    "EVRM_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** evermore",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/evermore/11.png?format=png"
+        }
     ]
 }
