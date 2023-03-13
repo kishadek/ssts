@@ -797,6 +797,101 @@
             "image": "https://media.discordapp.net/attachments/1078539963643199518/1080294465811517480/Untitled238_20230301090020.png?width=444&height=579"
         }
     ],
+    
+    "REIW_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** It was good...",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/itwasgood/5.png?format=png"
+        }
+    ],
+    "REIW_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** It was good...",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/itwasgood/4.png?format=png"
+        }
+    ],
+    "REIW_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** It was good...",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/itwasgood/3.png?format=png"
+        }
+    ],
+    "REIW_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** It was good...",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/itwasgood/2.png?format=png"
+        }
+    ],
+    "REIW_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** It was good...",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/itwasgood/1.png?format=png"
+        }
+    ],
+    
+    "REIW_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** It was good...",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/itwasgood/10.png?format=png"
+        }
+    ],
+    "REIW_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** It was good...",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/itwasgood/9.png?format=png"
+        }
+    ],
+    "REIW_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** It was good...",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/itwasgood/8.png?format=png"
+        }
+    ],
+    "REIW_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** It was good...",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/itwasgood/7.png?format=png"
+        }
+    ],
+    "REIW_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** It was good...",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/itwasgood/6.png?format=png"
+        }
+    ],
+    
+    "REIW_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** It was good...",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/itwasgood/16.png?format=png"
+        }
+    ],
+    "REIW_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** It was good...",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/itwasgood/14.png?format=png"
+        }
+    ],
+    "REIW_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** It was good...",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/itwasgood/13.png?format=png"
+        }
+    ],
+    "REIW_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** It was good...",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/itwasgood/12.png?format=png"
+        }
+    ],
+    "REIW_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** It was good...",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/red/itwasgood/11.png?format=png"
+        }
+    ],
+    
+    
     "TWEN_V_C": [
         {
             "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** 22",
@@ -1909,5 +2004,7 @@
             "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Tell Me Why",
             "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/tellmewhy/11.png?format=png"
         }
-    ]
+    ],
+    
+    
 }
