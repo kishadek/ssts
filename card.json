@@ -2332,5 +2332,97 @@
             "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Out of The Woods",
             "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/outofthewoods/11.png?format=png"
         }
+    ],
+    
+    "OOTW_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** The Story of Us",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/thestoryofus/5.png?format=png"
+        }
+    ],
+    "OOTW_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** The Story of Us",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/thestoryofus/4.png?format=png"
+        }
+    ],
+    "OOTW_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** The Story of Us",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/thestoryofus/3.png?format=png"
+        }
+    ],
+    "OOTW_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** The Story of Us",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/thestoryofus/2.png?format=png"
+        }
+    ],
+    
+    "OOTW_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** The Story of Us",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/thestoryofus/1.png?format=png"
+        }
+    ],
+    "OOTW_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** The Story of Us",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/thestoryofus/10.png?format=png"
+        }
+    ],
+    "OOTW_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** The Story of Us",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/thestoryofus/9.png?format=png"
+        }
+    ],
+    "OOTW_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** The Story of Us",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/thestoryofus/8.png?format=png"
+        }
+    ],
+    "OOTW_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** The Story of Us",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/thestoryofus/7.png?format=png"
+        }
+    ],
+    "OOTW_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** The Story of Us",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/thestoryofus/6.png?format=png"
+        }
+    ],
+    "OOTW_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** The Story of Us",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/thestoryofus/16.png?format=png"
+        }
+    ],
+    "OOTW_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** The Story of Us",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/thestoryofus/14.png?format=png"
+        }
+    ],
+    "OOTW_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** The Story of Us",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/thestoryofus/13.png?format=png"
+        }
+    ],
+    "OOTW_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** The Story of Us",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/thestoryofus/12.png?format=png"
+        }
+    ],
+    "OOTW_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** The Story of Us",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/thestoryofus/11.png?format=png"
+        }
     ]
 }
