@@ -2424,5 +2424,189 @@
             "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** The Story of Us",
             "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/speaknow/thestoryofus/11.png?format=png"
         }
+    ],
+    
+    "LOAT_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** All Of The Girls",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/5.png?format=png"
+        }
+    ],
+    "LOAT_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** All Of The Girls",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/4.png?format=png"
+        }
+    ],
+    "LOAT_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** All Of The Girls",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/3.png?format=png"
+        }
+    ],
+    "LOAT_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** All Of The Girls",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/2.png?format=png"
+        }
+    ],
+    
+    "LOAT_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** All Of The Girls",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/1.png?format=png"
+        }
+    ],
+    "LOAT_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** All Of The Girls",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/10.png?format=png"
+        }
+    ],
+    "LOAT_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** All Of The Girls",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/9.png?format=png"
+        }
+    ],
+    "LOAT_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** All Of The Girls",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/8.png?format=png"
+        }
+    ],
+    "LOAT_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** All Of The Girls",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/7.png?format=png"
+        }
+    ],
+    "LOAT_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** All Of The Girls",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/6.png?format=png"
+        }
+    ],
+    "LOAT_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** All Of The Girls",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/16.png?format=png"
+        }
+    ],
+    "LOAT_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** All Of The Girls",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/14.png?format=png"
+        }
+    ],
+    "LOAT_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** All Of The Girls",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/13.png?format=png"
+        }
+    ],
+    "LOAT_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** All Of The Girls",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/12.png?format=png"
+        }
+    ],
+    "LOAT_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** All Of The Girls",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/11.png?format=png"
+        }
+    ],
+    
+    "LOYL_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** You Loved Before",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/5.png?format=png"
+        }
+    ],
+    "LOYL_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** You Loved Before",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/4.png?format=png"
+        }
+    ],
+    "LOYL_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** You Loved Before",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/3.png?format=png"
+        }
+    ],
+    "LOYL_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** You Loved Before",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/2.png?format=png"
+        }
+    ],
+    
+    "LOYL_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** You Loved Before",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/1.png?format=png"
+        }
+    ],
+    "LOYL_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** You Loved Before",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/10.png?format=png"
+        }
+    ],
+    "LOYL_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** You Loved Before",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/9.png?format=png"
+        }
+    ],
+    "LOYL_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** You Loved Before",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/8.png?format=png"
+        }
+    ],
+    "LOYL_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** You Loved Before",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/7.png?format=png"
+        }
+    ],
+    "LOYL_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** You Loved Before",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/6.png?format=png"
+        }
+    ],
+    "LOYL_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** You Loved Before",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/16.png?format=png"
+        }
+    ],
+    "LOYL_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** You Loved Before",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/14.png?format=png"
+        }
+    ],
+    "LOYL_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** You Loved Before",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/13.png?format=png"
+        }
+    ],
+    "LOYL_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** You Loved Before",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/12.png?format=png"
+        }
+    ],
+    "LOYL_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** You Loved Before",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/11.png?format=png"
+        }
     ]
 }
