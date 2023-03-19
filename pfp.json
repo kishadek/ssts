@@ -49,6 +49,12 @@
       "GLITCH_V": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/glitch/p_glitch_v.png",
       "GLITCH_D": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/glitch/p_glitch_d.png",
       "GLITCH_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/midnights/glitch/p_glitch_r.png",
+      "ALLOFTHEGIRLS_V": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/p_allofthegirls_v.png",
+      "ALLOFTHEGIRLS_D": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/p_allofthegirls_d.png",
+      "ALLOFTHEGIRLS_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/allofthegirls/p_allofthegirls_r.png",
+      "YOULOVEDBEFORE_V": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/p_youlovedbefore_v.png",
+      "YOULOVEDBEFORE_D": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/p_youlovedbefore_d.png",
+      "YOULOVEDBEFORE_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/p_youlovedbefore_r.png",
       
       
       "TWEN_V_TEXT": "`Limited` 22 Vocal",
@@ -99,6 +105,12 @@
       "OUTOFTHEWOODS_V_TEXT": "`Limited` Out of the Woods Vocal",
       "OUTOFTHEWOODS_D_TEXT": "`Limited` Out of the Woods Dance",
       "OUTOFTHEWOODS_R_TEXT": "`Limited` Out of the Woods Rhythm",
+      "ALLOFTHEGIRLS_V_TEXT": "`Limited` All Of The Girls Vocal",
+      "ALLOFTHEGIRLS_D_TEXT": "`Limited` All Of The Girls Dance",
+      "ALLOFTHEGIRLS_R_TEXT": "`Limited` All Of The Girls Rhythm",
+      "YOULOVEDBEFORE_V_TEXT": "`Limited` You Loved Before Vocal",
+      "YOULOVEDBEFORE_D_TEXT": "`Limited` You Loved Before Dance",
+      "YOULOVEDBEFORE_R_TEXT": "`Limited` You Loved Before Rhythm",
       
       
       
