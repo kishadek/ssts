@@ -2608,5 +2608,208 @@
             "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** You Loved Before",
             "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/11.png?format=png"
         }
+    ],
+    
+    "TLSW_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** Taylor Swift",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/1.png?format=png"
+        }
+    ],
+    "TLSW_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** Taylor Swift",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/10.png?format=png"
+        }
+    ],
+    "TLSW_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** Taylor Swift",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/9.png?format=png"
+        }
+    ],
+    "TLSW_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** Taylor Swift",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/8.png?format=png"
+        }
+    ],
+    "TLSW_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** Taylor Swift",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/7.png?format=png"
+        }
+    ],
+    "TLSW_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** Taylor Swift",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/6.png?format=png"
+        }
+    ],
+    "TLSW_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** Taylor Swift",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/16.png?format=png"
+        }
+    ],
+    "TLSW_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** Taylor Swift",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/14.png?format=png"
+        }
+    ],
+    "TLSW_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** Taylor Swift",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/13.png?format=png"
+        }
+    ],
+    "TLSW_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** Taylor Swift",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/12.png?format=png"
+        }
+    ],
+    "TLSW_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** Taylor Swift",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/ts/11.png?format=png"
+        }
+    ],
+    
+"FRLS_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> Taylor Swift Vocal** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/1.png?format=png"
+        }
+    ],
+    "FRLS_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> Taylor Swift Dance** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/10.png?format=png"
+        }
+    ],
+    "FRLS_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> Taylor Swift Dance** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/9.png?format=png"
+        }
+    ],
+    "FRLS_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> Taylor Swift Dance** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/8.png?format=png"
+        }
+    ],
+    "FRLS_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> Taylor Swift Dance** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/7.png?format=png"
+        }
+    ],
+    "FRLS_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> Taylor Swift Dance** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/6.png?format=png"
+        }
+    ],
+    "FRLS_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> Taylor Swift Rhythm** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/16.png?format=png"
+        }
+    ],
+    "FRLS_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> Taylor Swift Rhythm** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/14.png?format=png"
+        }
+    ],
+    "FRLS_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> Taylor Swift Rhythm** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/13.png?format=png"
+        }
+    ],
+    "FRLS_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> Taylor Swift Rhythm** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/12.png?format=png"
+        }
+    ],
+    "FRLS_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> Taylor Swift Rhythm** Fearless",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/fearless/11.png?format=png"
+        }
+    ],
+    
+    "TS19_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> Taylor Swift Vocal** 1989",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/1.png?format=png"
+        }
+    ],
+    "TS19_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> Taylor Swift Dance** 1989",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/10.png?format=png"
+        }
+    ],
+    "TS19_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> Taylor Swift Dance** 1989",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/9.png?format=png"
+        }
+    ],
+    "TS19_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> Taylor Swift Dance** 1989",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/8.png?format=png"
+        }
+    ],
+    "TS19_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> Taylor Swift Dance** 1989",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/7.png?format=png"
+        }
+    ],
+    "TS19_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> Taylor Swift Dance** 1989",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/6.png?format=png"
+        }
+    ],
+    "TS19_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> Taylor Swift Rhythm** 1989",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/16.png?format=png"
+        }
+    ],
+    "TS19_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> Taylor Swift Rhythm** 1989",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/14.png?format=png"
+        }
+    ],
+    "TS19_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> Taylor Swift Rhythm** 1989",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/13.png?format=png"
+        }
+    ],
+    "TS19_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> Taylor Swift Rhythm** 1989",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/12.png?format=png"
+        }
+    ],
+    "TS19_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> Taylor Swift Rhythm** 1989",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/11.png?format=png"
+        }
     ]
+    
+    
 }
