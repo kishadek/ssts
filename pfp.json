@@ -55,6 +55,9 @@
       "YOULOVEDBEFORE_V": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/p_youlovedbefore_v.png",
       "YOULOVEDBEFORE_D": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/p_youlovedbefore_d.png",
       "YOULOVEDBEFORE_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/lover/youlovedbefore/p_youlovedbefore_r.png",
+      "THEERASTOUR_V": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/p_theerastour_v.png",
+      "THEERASTOUR_D": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/p_theerastour_d.png",
+      "THEERASTOUR_R": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/p_theerastour_r.png",
       
       
       "TWEN_V_TEXT": "`Limited` 22 Vocal",
@@ -111,6 +114,9 @@
       "YOULOVEDBEFORE_V_TEXT": "`Limited` You Loved Before Vocal",
       "YOULOVEDBEFORE_D_TEXT": "`Limited` You Loved Before Dance",
       "YOULOVEDBEFORE_R_TEXT": "`Limited` You Loved Before Rhythm",
+      "YOULOVEDBEFORE_V_TEXT": "`Event` The Eras Tour Vocal",
+      "YOULOVEDBEFORE_D_TEXT": "`Event` The Eras Tour Dance",
+      "YOULOVEDBEFORE_R_TEXT": "`Event` The Eras Tour Rhythm",
       
       
       
