@@ -2881,6 +2881,98 @@
             "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** 1989",
             "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/1989/11.png?format=png"
         }
+    ],
+    
+    "TOUR_V_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Vocal** The Eras Tour",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/The Eras Tour/5.png?format=png"
+        }
+    ],
+    "TOUR_V_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Vocal** The Eras Tour",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/The Eras Tour/4.png?format=png"
+        }
+    ],
+    "TOUR_V_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Vocal** The Eras Tour",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/The Eras Tour/3.png?format=png"
+        }
+    ],
+    "TOUR_V_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Vocal** The Eras Tour",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/The Eras Tour/2.png?format=png"
+        }
+    ],
+    
+    "TOUR_V_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Vocal** The Eras Tour",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/The Eras Tour/1.png?format=png"
+        }
+    ],
+    "TOUR_D_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Dance** The Eras Tour",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/The Eras Tour/10.png?format=png"
+        }
+    ],
+    "TOUR_D_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Dance** The Eras Tour",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/The Eras Tour/9.png?format=png"
+        }
+    ],
+    "TOUR_D_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Dance** The Eras Tour",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/The Eras Tour/8.png?format=png"
+        }
+    ],
+    "TOUR_D_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Dance** The Eras Tour",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/The Eras Tour/7.png?format=png"
+        }
+    ],
+    "TOUR_D_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Dance** The Eras Tour",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/The Eras Tour/6.png?format=png"
+        }
+    ],
+    "TOUR_R_C": [
+        {
+            "name": "<:C_EMBLEM:1080736343031816222> **Taylor Swift Rhythm** The Eras Tour",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/The Eras Tour/16.png?format=png"
+        }
+    ],
+    "TOUR_R_B": [
+        {
+            "name": "<:B_EMBLEM:1080736338938171443> **Taylor Swift Rhythm** The Eras Tour",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/The Eras Tour/14.png?format=png"
+        }
+    ],
+    "TOUR_R_A": [
+        {
+            "name": "<:A_EMBLEM:1080736335591112764> **Taylor Swift Rhythm** The Eras Tour",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/The Eras Tour/13.png?format=png"
+        }
+    ],
+    "TOUR_R_S": [
+        {
+            "name": "<:S_EMBLEM:1080736333615616030> **Taylor Swift Rhythm** The Eras Tour",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/The Eras Tour/12.png?format=png"
+        }
+    ],
+    "TOUR_R_R": [
+        {
+            "name": "<:R_EMBLEM:1080736329735880724> **Taylor Swift Rhythm** The Eras Tour",
+            "image": "https://superstartaylorswift.sirv.com/resources/images/card/bot/EVENT/The_Eras_Tour/eventlimited/DONOTLEAK_230323/The Eras Tour/11.png?format=png"
+        }
     ]
     
     
